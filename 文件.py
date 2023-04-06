@@ -33,3 +33,4 @@ def jiecheng(n,*b):
     return s
 f=lambda x,y:x+y
 print(f(10,12))
+kka
