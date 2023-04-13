@@ -8,7 +8,7 @@ def drawLine(draw):
   turtle.right(90)
 def drawDigit(digit):
  drawLine(True) if digit in [2,3,4,5,6,8,9] else drawLine(False)
- drawLine(True) if digit in [0,1.3,4,5,6,7,8,9] else drawLine(False)
+ drawLine(True) if digit in [0,1,3,4,5,6,7,8,9] else drawLine(False)
  drawLine(True) if digit in [0,2,3,5,6,8,9] else drawLine(False)
  drawLine(True) if digit in [0,2,6,8] else drawLine(False)
  turtle . left (90)
@@ -26,7 +26,7 @@ def main():
  turtle.penup()
  turtle.fd(-300)
  turtle.pensize(5)
- drawDate('20201112')
+ drawDate('7875487554')#写出想画出来的数字
  turtle.hideturtle()
  turtle.done()
 main()
