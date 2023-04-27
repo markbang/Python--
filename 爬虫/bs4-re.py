@@ -1,11 +1,13 @@
-from bs4 import BeautifulSoup
 import re
 import requests
-url='https://www.bilibili.com/video/BV1Sk4y1471G/?spm_id_from=333.1007.tianma.1-1-1.click'
-content=requests.get(url).text
-soup=BeautifulSoup(content,'html.parser')
-title=soup.title.string
-print(title)
-paragraphs=soup.findAll('p')
-for p in paragraphs:
-    print(p.string)
+from selenium import webdriver
+import time
+browser=webdriver.Chrome()
+browser.get(r'https://movie.douban.com/explore')
+time.sleep(2)
+print(browser.title)
+print(browser.current_url)
+print(browser.name)
+print(browser.page_source)
+
+browser.close()
