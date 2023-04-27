@@ -1,6 +1,5 @@
-d={}
-for i in range(26):
-    d[chr(i+ord('a'))]=chr((i+13)%26+ord('a'))
-    print(d)
-for c in 'Python':
-    print(d.get(c,c),end='')
+while True:
+    d={1:'hello',2:'world',3:'fine',4:'hahha'}
+    e=input('请输入一个键：')
+    e=eval(e)
+    print(d.get(e,'输入的健不存在！！！'))
