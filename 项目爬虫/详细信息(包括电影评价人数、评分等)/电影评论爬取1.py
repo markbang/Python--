@@ -19,8 +19,6 @@ def fetch_comments(movie_id, start_index):
     ua = UserAgent(family='chrome')
     res = ua.random()
     headers = {'User-Agent': res,
-               'cookie':'bid=m9giOkyGhsI; __gads=ID=9ac6d8a84dbdb8d8-2237b5162ddd00a5:T=1681130582:RT=1681130582:S=ALNI_MaEtqbApXeiBJGA5UPmEDY1-ONpCQ; ll="108296"; __utmz=30149280.1682132050.4.3.utmcsr=cn.bing.com|utmccn=(referral)|utmcmd=referral|utmcct=/; __gpi=UID=00000bf'
-                        '0454ee5a4:T=1681130582:RT=1682132733:S=ALNI_MawBtRXAclTas-kDBdzYp9h-2z6KA; __utma=30149280.443719266.1681130582.1682132050.1682136844.5; _ga=GA1.2.443719266.1681130582; douban-fav-remind=1; dbcl2="270334106:bSmIeq0yb0Q"; push_noty_num=0; push_doumail_num=0; ck=Q0Fp; frodotk_db="e35c3ce1b858be15aa14b6a5290a3a3f"',
                "Connection": "close"}
     # with open('C:\\Users\\LENOVO\\Desktop\\Python文件\\项目爬虫\\详细信息(包括电影评价人数、评分等)\\proxy.txt', 'r') as f:
     #     proxies_pool = f.readlines()
