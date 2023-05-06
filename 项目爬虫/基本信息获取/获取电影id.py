@@ -6,10 +6,10 @@ for year in range(2023,2018,-1):
     movie_id_file=open('10年代.txt','r',encoding='utf-8')
     movie_id_file_read=movie_id_file.read()
     movie_id_file.close()
-    obj=re.compile(r'"year":.*?"id": "(?P<id>.*?)",.*?"title": "(?P<name>.*?)",',re.S)
+    obj=re.compile(r'"year":.*?"id": "(?P<id>.*?)",.*?"title": "(?P<name.txt>.*?)",',re.S)
     result=obj.finditer(movie_id_file_read)
     for i in result:
-         movie_id[i.group('name')]=i.group('id')
+         movie_id[i.group('name.txt')]=i.group('id')
     print(movie_id)
     movie_id_file=open('../详细信息(包括电影评价人数、评分等)/电影id.txt', 'w', encoding='utf-8')
     movie_id_file.write(str(movie_id))

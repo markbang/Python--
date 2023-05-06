@@ -59,6 +59,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\回廊亭.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\囧妈.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\困在时间里的父亲.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\复仇者联盟4：终局之战.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\小丑.csv">
           <value>
             <Attribute>
