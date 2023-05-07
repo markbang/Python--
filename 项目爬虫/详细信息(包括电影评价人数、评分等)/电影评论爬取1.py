@@ -20,7 +20,7 @@ def fetch_comments(movie_id, start_index):
     res = ua.random()
     headers = {'User-Agent': res,
                "Connection": "close"}
-    # with open('C:\\Users\\LENOVO\\Desktop\\Python文件\\项目爬虫\\详细信息(包括电影评价人数、评分等)\\proxy.txt', 'r') as f:
+    # with open('C:\\Users\\LENOVO\\Desktop\\Python文件\\项目爬虫\\详细信息.csv(包括电影评价人数、评分等)\\proxy.txt', 'r') as f:
     #     proxies_pool = f.readlines()
     # proxy = random.choice(proxies_pool).strip()
     # proxies_pool=[{'http': 'http://'+ proxy,

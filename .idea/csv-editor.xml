@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\movie_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影信息.csv">
           <value>
             <Attribute>
@@ -10,147 +17,70 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\一点就到家.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影票房\所有票房.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\万里归途.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影票房\详细信息.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\下一个素熙.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\心灵奇旅评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\你好，李焕英.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我不是药神评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\你的名字。.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\流浪地球2评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\俄罗斯方块.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\深海评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\八佰.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\花束般的恋爱评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\回廊亭.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\让子弹飞评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\囧妈.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\长津湖评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\困在时间里的父亲.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\复仇者联盟4：终局之战.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\小丑.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\少年的你.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\惊奇队长.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\想见你.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我不是药神.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我和我的家乡.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我和我的父辈.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我和我的祖国.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\我的姐姐.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\流浪地球2.csv">
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\票房.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

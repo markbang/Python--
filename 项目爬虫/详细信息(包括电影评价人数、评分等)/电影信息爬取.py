@@ -36,5 +36,5 @@ for id in movie_id.values():
         movie_info=pd.DataFrame({'电影名称':[movie_name],'上映年份':[movie_year],'导演':[movie_director],'电影类型':[movie_category],
                                  "制片国家/地区":[movie_country], '片长':[movie_length], '评分':[movie_score],
                                  "评价人数":[movie_num]})
-        movie_info.to_csv('../详细信息(包括电影评价人数、评分等)/电影信息.csv',mode='a',encoding='utf-8',index=False,header=False)
+        movie_info.to_csv('../详细信息.csv(包括电影评价人数、评分等)/电影信息.csv',mode='a',encoding='utf-8',index=False,header=False)
         print(f'电影信息爬取成功{n}')
