@@ -10,7 +10,7 @@ with open(r'C:\Users\LENOVO\Desktop\Python文件\项目爬虫\详细信息(包�
     movie_dic=eval(f.read())
     movie_id=movie_dic[movie_name]
 # 豆瓣短评用网址只能看到前30页
-for i in range(16,31):
+for i in range(0,30):
     url='https://movie.douban.com/subject/'+str(movie_id)+f'/comments?start={i*20}&limit=20&status=P&sort=new_score'
     ua = UserAgent(family='chrome')
     res=ua.random()

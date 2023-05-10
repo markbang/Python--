@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\哪吒之魔童降世评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\心灵奇旅评论.csv">
           <value>
             <Attribute>
@@ -59,6 +66,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\灌篮高手评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\盗梦空间评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\花束般的恋爱评论.csv">
           <value>
             <Attribute>
@@ -74,6 +95,13 @@
           </value>
         </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\长津湖评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\阿凡达：水之道评论.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
