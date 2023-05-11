@@ -7,7 +7,7 @@ t = f.read()
 f.close()
 ls = jieba.lcut(t)
 txt = ' '.join(ls)
-bg_pic = imageio.v2.imread(r'C:\Users\LENOVO\Desktop\Python文件\项目爬虫\重要电影词云\评论mask\retouch_2023051112373688.png').astype(np.uint8)
+bg_pic = imageio.v2.imread(r'C:\Users\LENOVO\Desktop\Python文件\项目爬虫\重要电影词云\评论mask\让子弹飞.jpg').astype(np.uint8)
 mask = np.array(bg_pic)
 stopwords = {'和','的','是','在','以','大','了','等','多'}
 w = wordcloud.WordCloud(font_path='msyh.ttc', width=1000, height=700,background_color='white',
