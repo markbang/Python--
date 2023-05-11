@@ -1,2 +1,8 @@
-s = '你是傻逼吧djh'
-print(len(s))
+# 随机生成密码
+import random
+import string
+characters = string.ascii_letters + string.digits + string.punctuation
+password = ''
+for i in range(15):
+    password += random.choice(characters)
+print(password)
