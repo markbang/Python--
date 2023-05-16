@@ -10,7 +10,49 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\movie_info.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影信息.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影票房\所有票房.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影票房\详细信息.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\你好，李焕英评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\哪吒之魔童降世评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\票房.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

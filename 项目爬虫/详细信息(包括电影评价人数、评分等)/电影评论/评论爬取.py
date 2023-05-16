@@ -1,4 +1,6 @@
 # 根据电影id爬取豆瓣影评
+# 因为我没有IP代理池，然后豆瓣又设有反爬机制，我还不会破解滑块验证😵‍💫，所以我只能采用单线程，看到哪一页被反爬了
+# ，然后自己手动打开豆瓣去验证滑块
 import requests
 import re
 import time
@@ -10,7 +12,7 @@ with open(r'C:\Users\LENOVO\Desktop\Python文件\项目爬虫\详细信息(包�
     movie_dic=eval(f.read())
     movie_id=movie_dic[movie_name]
 # 豆瓣短评用网址只能看到前30页
-for i in range(0,30):
+for i in range(1,30):
     url='https://movie.douban.com/subject/'+str(movie_id)+f'/comments?start={i*20}&limit=20&status=P&sort=new_score'
     ua = UserAgent(family='chrome')
     res=ua.random()
@@ -32,7 +34,7 @@ for i in range(0,30):
         df.to_csv(f'{movie_name}评论.csv',encoding='utf-8',index=False,mode='a',header=False)
     time.sleep(random.randint(3,6))
 # 下面的是按时间排序的，还能够上选出来一些评论，但只能看到前10页
-for i in range(0,11):
+for i in range(0,10):
     url='https://movie.douban.com/subject/'+str(movie_id)+f'/comments?start={i*20}&limit=20&status=P&sort=time'
     ua = UserAgent(family='chrome')
     res=ua.random()
