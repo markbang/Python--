@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\电影评论\深海评论.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\项目爬虫\详细信息(包括电影评价人数、评分等)\票房.csv">
           <value>
             <Attribute>

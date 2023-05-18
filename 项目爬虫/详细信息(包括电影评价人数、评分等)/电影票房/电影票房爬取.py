@@ -19,6 +19,7 @@ for i in range(2010,2024):
     content = BeautifulSoup(response.text, 'html.parser')
     matches = content.find_all('tr', align='left')
     for match in matches:
+        year = match.find_all('td')[1].text
         name = match.find_all('td')[2].text
         box_office = match.find_all('td')[3].text
         if '重映' in name:
@@ -33,6 +34,6 @@ for i in range(2010,2024):
             box_office = box_office
         print(name, box_office)
         # 将爬取的数据保存到csv文件中
-        df = pd.DataFrame({'name':[name],'box_office':[box_office]})
+        df = pd.DataFrame({'name':[name],'year':[year],'box_office':[box_office]})
         df.to_csv(f'所有票房.csv', mode='a',index=False, encoding='utf-8',header=False)
 
