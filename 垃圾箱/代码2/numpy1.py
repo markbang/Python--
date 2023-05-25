@@ -1,0 +1,41 @@
+import numpy as np
+'''
+"数组和列表的区别：数组中的元素必须是同一种数据类型，而列表中的元素可以是不同的数据类型"
+"数组的维度：ndim"
+"数组的形状：shape"
+"数组的元素个数：size"
+"数组中每个元素的字节大小：itemsize"
+"数组中元素的数据类型：dtype"
+"数组的索引：和列表的索引一样"
+"数组的切片：和列表的切片一样"
+"数组的变形：reshape"
+"数组的转置：T"
+"数组的类型转换：astype"
+"数组的拼接：concatenate"
+"数组的拆分：split"
+"数组的复制：copy"
+"数组的排序：sort"
+"改变数组的维度与形状：resize"
+"数组和列表的区别：数组中的元素必须是同一种数据类型，而列表中的元素可以是不同的数据类型"
+"数组的维度：ndim"
+"数组的形状：shape"
+"数组的元素个数：size"
+"数组中每个元素的字节大小：itemsize"
+"数组中元素的数据类型：dtype"
+"数组的索引：和列表的索引一样"
+"数组的切片：和列表的切片一样"
+"数组的变形：reshape"
+"数组的转置：T"
+"数组的类型转换：astype"
+"数组的拼接：concatenate"
+"数组的拆分：split"
+"数组的复制：copy"
+"数组的排序：sort"
+"改变数组的维度与形状：resize"
+'''
+print(np.power(np.arange(1,5),2).sum())
+print(np.add(np.arange(1,5),np.arange(4)))
+# 打开的词云有这个东西    转到我的光标处，where，Sir  C:\Users\LENOVO\Desktop\Python文件\第三方库学习\词频、词云\词云.py  🤗
+sn = np.random.randint(0, 1000, (5, 5))
+print(sn)
+#就用牢大那张图吧，正在进行相位移动，，，，
