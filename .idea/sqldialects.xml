@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/垃圾箱/代码2/pymysql_create_schema.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/第三方库学习/Tornado网页/创建Tornado服务.py" dialect="OracleSqlPlus" />
   </component>
 </project>
