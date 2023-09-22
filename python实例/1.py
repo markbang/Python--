@@ -48,3 +48,5 @@
 #     y = math.sqrt(i + 268)
 #     if x == int(x) and y == int(y):
 #         print(i)
+with open('C:\Users\LENOVO\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1',encoding='utf-8') as f:
+    f.write('Invoke-Expression (&starship init powershell)')

@@ -1,0 +1,1691 @@
+"iSchoolsContactEmail": "mailto:yhli@mail.ccnu.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Wu Han Shi",
+                "location": {
+                    "latitude": 30.5137,
+                    "longitude": 114.38862
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Luo Yu Lu",
+                    "apt": ""
+                },
+                "formatted": "Luo Yu Lu, Hong Shan Qu, Wu Han Shi, China, 430079",
+                "country": "CN",
+                "postalCode": "430079"
+            },
+            "nameOfUniversity": "Central China Normal University",
+            "representativeContactImage": "wix:image://v1/f6f74b_6429232fb4bd48e7ac41b8411e102a48~mv2.png/representative-Associate%20Professor%20Hui%20Chen.png#originWidth=403&originHeight=576",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_33a7b5c9c8d4476dbb838418eab1eff1~mv2.png/head%20of%20school-%20Professor%20Yuhai%20Li.png#originWidth=460&originHeight=574",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_6e7e9af5c6a34b9ab64feae17d8e58e6~mv2.png/banner.png#originWidth=1920&originHeight=446",
+            "_id": "9d10529d-2d2b-4b76-ab16-4d2edcbe94e9",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T11:47:35.636Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-07-10T09:05:10.876Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_3671b851acd541cc9c7c071d7a57b368~mv2.png/Central%20China%20Normal%20University.png#originWidth=300&originHeight=300",
+            "externalProfile": "http://faculty.ccnu.edu.cn/2006982250",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The Department of Library and Information Science, reestablished by Central China Normal University in 1984, was renamed as the Department of Information Management in 1993. At present, the School of Information Management has developed into a strong unit of teaching and research, having ranked the 4th of the same discipline in the assessment of first-level disciplines of schools and universities nationwide by the Degree Center of the Ministry of Education for 6 consecutive years. This School is also the member of the Nationwide E-commerce Teaching Steering Committee of Schools and Universities of the Ministry of Education. It has a key research base of humanities and social sciences of Hubei province——Hubei E-commerce Research Center, one national excellent teaching team, two national excellent courses, one national bilingual model course and one provincial brand major.\n\nThe School has two teaching and research offices（Information Management and Information System Teaching and Research Office, and E-commerce Teaching and Research Office）, five research centers(E-commerce Research Center, Knowledge Management and Knowledge Service Research Center, E-government Research Center, CCNU CAS Prediction Research Center and Intellectual Property Research Center), one experimental center(including E-commerce, Information Management and Information System, E-commerce Security Certification laboratories) and one quality education base(CCNU Student Career Development Education Base). In addition, the School has training institutions, such as Wuhan E-commerce Training Center of Ministry of Information Industry, Computer Application Training and Testing Base of Hubei Human Affairs Hall, Hubei Professional and Technician Continuing Education Base for Information Management, etc.\n\nThe School has 49 staff members, including 16 professors, 14 associate professors, 1 distinguished professor, 3 adjunct professors, 10 doctoral supervisors, 20 postgraduate supervisors, 2 excellent talents of New Century Talent Supporting Plan by Ministry of Education, 1 National Excellent Teacher and 1 Famous Teacher of CCNU.\n\nThe School has 1 doctorate authorized first-level discipline(Management Science and Engineering ), 1 doctorate authorized secondary discipline(Information Science), 2 mastership authorized first-level disciplines(Management Science and Engineering, and Library Information and Archives Administration), 3 mastership authorized secondary disciplines(Information Science, Library Science and Business Management), 3 professional master programs(Logistics Engineering, Project Management and Agricultural Extension), 4 undergraduate programs(Information Management and Information System, E-commerce, E-commerce(logistics oriented), Reformed Pilot Class for E-commerce Top Innovative Talent Cultivation,) all of which are non-normal specialties and enroll candidates from nationwide.\n\nWith great comprehensive qualities, the graduates of the School enjoy praises of their employers. And the employment rate of graduates has always been 100% over the years.\n\n",
+            "representativePosition": "Representative",
+            "representativeName": "Hui Chen",
+            "iSchoolsContact": "Yuhai Li",
+            "iSchoolsWebsite": "http://imd.ccnu.edu.cn/",
+            "representativeExternalProfile": "http://faculty.ccnu.edu.cn/2018980100",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_72821d170f5f4611849ee74de18b4115~mv2.jpg/image.jpg#originWidth=1380&originHeight=323",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:h.chen@mail.ccnu.edu.cn",
+            "iSchoolsWebsite1": "http://imd.ccnu.edu.cn/",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/central-china-normal-university",
+            "nameOfISchools": "School of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:chujl@mail.las.ac.cn",
+            "iSchoolsAddress": {
+                "city": "Xi Cheng Qu",
+                "location": {
+                    "latitude": 39.91063269999999,
+                    "longitude": 116.3356321
+                },
+                "streetAddress": {
+                    "number": "52",
+                    "name": "San Li He Lu",
+                    "apt": ""
+                },
+                "formatted": "52 San Li He Lu, Xi Cheng Qu, Bei Jing Shi, China, 100045",
+                "country": "CN",
+                "postalCode": "100045"
+            },
+            "nameOfUniversity": "Chinese Academy of Sciences",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_bd1693f997a447d7b4c866fa3bcf68dc~mv2.jpg/representative%20of%20school-Researcher%20Jingli%20Chu.jpg#originWidth=1822&originHeight=2342",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_9bcc7bfcbe684cb99832c0ab325d7eac~mv2.png/banner.png#originWidth=2037&originHeight=308",
+            "_id": "2316b3ba-3fdb-4546-aedc-05e950c1b56e",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T10:57:28.892Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_1649fac517fe41999567add162260bc0~mv2.png/Chinese%20Academy%20of%20Sciences%20logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://people.ucas.ac.cn/http://people.ucas.ac.cn/~chujingli",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The National Science Library, Chinese Academy of Sciences（NSLC）is a state-level agency of technological documentation and information which supports technological self-innovation, services of national innovation system, the promotion of the spread of science and culture. It provides technological information service, research of library and information science, library and information science degree education, etc. It organizes, manages and coordinates with the services of documentation and information of CAS. It is in charge of constructing the scientific document resources support system and managing the service of public document information in CAS. It has two second-level documentation and information agencies, which are Chengdu Branch Library(formerly Chengdu Library and Information Center of CAS) and Wuhan Branch Library(formerly Wuhan Library of CAS) . These two agencies are in charge of strategic information research and scientific information service in related fields. They coordinate and organize scientific information services in respective areas.\n\nSince 1979, NSLC has enrolled postgraduate students in library science and information science. It is the first non-university research institution in China to offer postgraduate education. In 1986, both the library science and information science majors obtained the right to grant master's degrees. In 1993, we obtained the right to confer doctoral degrees in library science. In 1996, we jointly obtained the right to grant doctoral degree in information science with Nanjing University. In 2003, we independently obtained the right to grant doctoral degree in information science. In the year of 2011, we obtained the right to confer doctoral degree in the first-level disciplines of library, information and archives management. We have a postgraduate training system for doctoral and master's degrees. It is the only training unit that integrates with scientific research, subject education and innovative practice in the field of library, information and archives management at the doctoral level in China. A post-doctoral research mobile station was established in 2012.\n\nIn 2017, under the overall planning of University of Chinese Academy of Sciences (UCAS), the Department of Library, Information and Archives Management was established in the School of Economics and Management, with the establishment of the “Education and Research Department of Library, Information and Archives Management” and “the General Education and Research Department of Information Literacy Education”. Aiming for the international first-class subject construction and professional education, the whole department starts from a high starting point, runs schools at a high level. Not only implementing the policy of \"integration of science and education\", integrating the scientific research force and educational resources of NSLC, making full use of the teaching resources of CAS, UCAS and other units, but also improving the conditions of running schools, strengthening the construction of teaching staff, attaching importance to the standardized management of education, NSLC explores new types of education and teaching models and teaching methods, and improves the quality of education and teaching in an all-round way, and finally becomes a teaching institution which possesses its own characteristics, ranks at the forefront in China and has considerable influence in the world.\n\nNSLC has a strong faculty team. All of the doctoral tutors and master’s tutors have good business practices, scientific research and teaching experience. The characteristic of postgraduate education is the closely integration of theory and practice. NSLC provides the postgraduate assistant system for postgraduate students to participate in research, and sets up a special post-graduate teaching area, classrooms and a computer learning room. A variety of facilities and resources in the library are open to postgraduate students free of charge. It provides rich collections of library and information science, and has the most foreign language prints and online professional literature in China. To encourage the study and research of postgraduate, NSLC sets up a variety of scholarships. The graduates often go to work in scientific institutions, universities, colleges, libraries and IT companies. The employment rate is 100% every year.\n\nThe application time is set up by UCAS. NSLC has once a year admission (fall). Welcome those who are interested in the field of library and information science to apply for our master’s and doctoral programs!\n",
+            "iSchoolsContact": "Jingli Chu",
+            "iSchoolsWebsite": "https://english.cas.cn/",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_dd7de77dad724fb09b28484411fb3a12~mv2.jpg/image.jpg#originWidth=770&originHeight=228",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://english.cas.cn/",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/chinese-academy-of-sciences",
+            "nameOfISchools": "Department of Library, Information and Archives Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:seonghee@cau.ac.kr",
+            "iSchoolsAddress": {
+                "city": "Heukseok-ro",
+                "location": {
+                    "latitude": 37.50508810000001,
+                    "longitude": 126.9571012
+                },
+                "streetAddress": {
+                    "number": "Heukseok-ro",
+                    "name": "",
+                    "apt": "84"
+                },
+                "formatted": "84 Heukseok-ro, Dongjak-gu, Seoul, South Korea",
+                "country": "KR",
+                "postalCode": "06974"
+            },
+            "nameOfUniversity": "Chung-Ang University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_5eb923a373c14724bab6b85d4e08b968~mv2.jpg/Seonghee_Kim_cau.jpg#originWidth=113&originHeight=140",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_3f1f67165526411b93a56c69b9d42eca~mv2.jpg/cau_banner_edited.jpg#originWidth=960&originHeight=604",
+            "_id": "4a2a2194-2d93-453a-bf8e-66676e3be514",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T11:36:40.812Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "South Korea",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_6c98090e271a45e5b75797d5c4a66e92~mv2.png/Chung-Ang%20University%20logo.png#originWidth=300&originHeight=300",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Information explosion has caused great changes in the field of study. This is attributed to the rapid growth of computer science to actively respond to the information society and science, which is attempting to interpret and assign new values to information. It can be said that the ultimate goal of library and information science is to develop a processing method to provide users with the most rapidly and accurately optimal information for the exponentially increasing variety of information.\n\nIn response to these demands, library and information science, which was renewed in the early 1960s, differs from the research methodology of traditional library science, with a purely scientific aspect that mainly pursues general principles on the generation, nature, behavior, and distribution of information; It can be said that it is a discipline that includes both applied science aspects related to the design and operation of an effective and efficient information distribution system.\n\nSpecifically,  the characteristics of the information society, the research subject of library and information science is the distribution of scientific information through scientific literature and informal communication of scientific groups. As a methodology to scientifically investigate this phenomenon, library and information science has researched and developed a methodology called Bibliometrics or Science-metrics.\n",
+            "fieldOfStudy": " Informatics",
+            "iSchoolsContact": "Seonghee Kim",
+            "iSchoolsWebsite": "http://lis.cau.ac.kr/?lang=en",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_92908c23e3ab47368e94a9defeebc9d4~mv2.jpg/uni_cau.jpg#originWidth=1440&originHeight=960",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://lis.cau.ac.kr/?lang=en",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/chung-ang-university",
+            "nameOfISchools": "Department of Library and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto: elham.sayyadabdi@curtin.edu.au",
+            "iSchoolsAddress": {
+                "city": "Bentley",
+                "location": {
+                    "latitude": -32.0054649,
+                    "longitude": 115.8919818
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Kent Street",
+                    "apt": ""
+                },
+                "formatted": "Kent St, Bentley WA 6102, Australia",
+                "country": "AU",
+                "postalCode": "6102",
+                "subdivision": "WA"
+            },
+            "nameOfUniversity": "Curtin University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_7a27e37862b143758a0ef476cffc2d0e~mv2.jpg/ellie-sayyad-abdi-fd4f5b39.jpg#originWidth=640&originHeight=640",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_669caecc58354b7f96090cdad2d8dca5~mv2.jpg/uni_curtis_edited.jpg#originWidth=1077&originHeight=575",
+            "_id": "8fbea4d4-c438-479d-af39-d700b881b6d8",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-23T12:40:11.849Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-04-03T07:14:33.496Z"
+            },
+            "country": "Australia",
+            "iSchoolsLogo": "wix:image://v1/9962f6_36f43ad9712c44628e46c2183750d9b6~mv2.png/Curtin_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://staffportal.curtin.edu.au/staff/profile/view/ellie-sayyad-abdi-fd4f5b39/",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "Our School of Media, Creative Arts and Social Inquiry explores modern technologies and values the creative industries and social sciences. The school aims to encourage creative and critical reflection while engaging with relevant industries. Our courses will develop and enhance your creative and professional skills to enable you to succeed in your chosen industry, \nThis vibrant school hosts a variety of industry standard equipment and software which enable our students to gain skills and experience to graduate industry ready. It also runs a large number of on-campus organizations including a theatre company and online publications and broadcasts a popular community radio station.\n",
+            "fieldOfStudy": "Information Behaviour",
+            "iSchoolsContact": "Ellie Sayyad Abdi",
+            "iSchoolsWebsite": "https://about.curtin.edu.au/learning-teaching/humanities/school-of-media-creative-arts-and-social-inquiry/",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_2043cac3602c4ab98ad8eb5b4f911801~mv2.jpg/curtin_uni2.jpg#originWidth=1080&originHeight=1080",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://about.curtin.edu.au/learning-teaching/humanities/school-of-media-creative-arts-and-social-inquiry/",
+            "membershipLevel": "Supporting",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/curtin-university",
+            "nameOfISchools": "School of Media, Creative Arts & Social Inquiry"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:echung@ewha.ac.kr",
+            "iSchoolsAddress": {
+                "city": "Ewhayeodae-gil",
+                "location": {
+                    "latitude": 37.5618588,
+                    "longitude": 126.9468339
+                },
+                "streetAddress": {
+                    "number": "Ewhayeodae-gil",
+                    "name": "",
+                    "apt": "52"
+                },
+                "formatted": "52 Ewhayeodae-gil, Seodaemun-gu, Seoul, South Korea",
+                "country": "KR",
+                "postalCode": "03760"
+            },
+            "nameOfUniversity": "Ewha Womans University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_ef8de48095e142daaa41b1d5ae9cc60b~mv2.jpg/EunKyung%20Chung.jpg#originWidth=153&originHeight=144",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_f39a99c228a04bff815269e5a13f80b8~mv2.jpg/Banner%20image.jpg#originWidth=4928&originHeight=3280",
+            "_id": "24d22902-d554-46ca-9b7e-3765f63a9b70",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T10:06:14.790Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "South Korea",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_2eabbc7facd14a9bbcf9dc81a95d928d~mv2.png/EWHA%20Womans%20University%20logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "http://www.ewha.ac.kr/ewha/academics/social-sciences-prof.do?mode=view&pId=F49yY9dOVVpBOx42fhaUpA%3D%3D&deptUniNo=26",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "The Ewha Womans University iSchool offers a bachelor's program, two tracks of  master's programs(Library and Information Science and Archives and Records Management), and a doctoral program. Ewha iSchool has played a leading role in initiating and developing LIS education and research in South Korea and has striven to make changes and constant improvements in the curriculum and teaching standards since its inception. The latest revision of the curriculum provides a new track in data analytics, which enables our students to develop not only computational and statistical skills, but also a deeper understanding of data produced during the interaction of people and technology in diverse socio-technical environments. Drawing on its strength in education and research, Ewha iSchool has always pursued the contribution of information science to society, which is to take a broader perspective of information phenomena and apply it in innovative ways to solve information-related problems.",
+            "fieldOfStudy": "Information Retrieval and Network Analysis",
+            "iSchoolsContact": "EunKyung Chung",
+            "iSchoolsWebsite": "http://my.ewha.ac.kr/elis1959/",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_828d9a2ba1b84fed964c13691a83ce17~mv2.jpg/ewha_01.jpg#originWidth=5568&originHeight=3712",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://my.ewha.ac.kr/elis1959/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/ewha-womans-university",
+            "nameOfISchools": "Department of Library and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:jyoon@jbnu.ac.kr",
+            "iSchoolsAddress": {
+                "city": "Jeonju",
+                "location": {
+                    "latitude": 35.8467324,
+                    "longitude": 127.1293672
+                },
+                "streetAddress": {
+                    "number": "Baekje-daero",
+                    "name": "",
+                    "apt": "567"
+                },
+                "formatted": "567 Baekje-daero, Deokjin-gu, Jeonju, Jeollabuk-do, South Korea",
+                "country": "KR",
+                "postalCode": "561-181"
+            },
+            "nameOfUniversity": "Jeonbuk National University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_31872c2e9c9c4df69ed27fe16bdeaffe~mv2.png/JYoon2.png#originWidth=1798&originHeight=1810",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_060192d5837c4e5c911a37e43e225219~mv2.jpg/0IMG_0441.jpg#originWidth=5472&originHeight=3648",
+            "_id": "2637d70d-a4e9-4e22-a134-d4481b1203e0",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T10:37:55.971Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "South Korea",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_1e1d1b3f6c644630a909ed5c5f28170e~mv2.png/Jeonbuk%20National%20University%20logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "http:// https://sites.google.com/view/jungwonyoon/home",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "The JBNU iSchool spans two departments, the Department of Library and\nInformation Science (LIS) and Department of Records and Archives\nManagement (RAM). JBNU LIS was established in 1979 and now offers a\nbachelor's program, three master's programs, and a doctoral program.\nThe RAM was established in 2012 and provides master's and doctoral\nprograms. Combined, the JBNU iSchool currently has 12 doctoral\nstudents, 82 master’s students and 150 undergraduates",
+            "representativePosition": "",
+            "representativeName": "",
+            "fieldOfStudy": " Information behaviors and Scholarly communication",
+            "iSchoolsContact": "JungWon Yoon",
+            "iSchoolsWebsite": "https://lis.jbnu.ac.kr/lis/index.do",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_5ac3383e8cfc4a9da68abfcfb1e897a8~mv2.jpg/0%20IMG_2344.JPG#originWidth=5472&originHeight=3648",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://lis.jbnu.ac.kr/lis/index.do",
+            "membershipLevel": "Basic",
+            "representativeFieldOfStudy": "",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/jeonbuk-national-university",
+            "nameOfISchools": "Department of Library and Information Science (LIS) & Department of Records and Archives Management (RAM)"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:guoyt@jlu.edu.cn",
+            "iSchoolsAddress": {
+                "city": "长春市",
+                "location": {
+                    "latitude": 43.980822,
+                    "longitude": 125.544504
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "China, 吉林省长春市二道区XGJV+8RC 邮政编码: 130507",
+                "country": "CN",
+                "postalCode": "130507"
+            },
+            "nameOfUniversity": "Jilin University",
+            "representativeContactImage": "wix:image://v1/f6f74b_1e2e8a52f4594d99bf110a2cac51c973~mv2.jpg/Contact%201_Jun%20Deng.jpg#originWidth=1080&originHeight=1571",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_a4875325d9504c1484415cc27b7ff23f~mv2.jpg/Main%20Contact_Guo%20Yingtong.jpg#originWidth=360&originHeight=520",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_7ce3d0fa1a164fbaa8e082cf24e5469b~mv2.jpeg/Banner%20image%20of%20school%20that%20spans%20the%20entire%20page.jpeg#originWidth=1920&originHeight=550",
+            "representative2ContactImage": "wix:image://v1/f6f74b_de6f00b5ff91456080a8c0923861532c~mv2.jpg/Contact%202_Xueyan%20Song.jpg#originWidth=413&originHeight=531",
+            "_id": "585b53f6-44d5-4019-bb51-8b84161a566c",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "representative2Email": "http://songxueyan@126.com",
+            "_createdDate": {
+                "$date": "2022-05-18T11:02:50.048Z"
+            },
+            "representative2Name": " Xueyan Song",
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_dcab03ea997e4222a5ac47a06f4fb436~mv2.png/Jillin%20University.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://biz.jlu.edu.cn/info/1052/3531.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Business and Management of Jilin University has built a complete system of disciplines and subjects with unique characteristics that are in line with the needs of social and economic development. The school has four post-doctoral research stations and four doctoral programs, i.e., Business Administration, Applied Economics, Library Information & Archives Management, and Management Science & Engineering.\nIt offers 9 academic master’s degree programs (Accounting, Business Management, Technology Economy and Management, Management Science & Engineering, Finance, Quantitative Economics, Library Science (LS), Information Science(IS) and Archival Science(AS) , in addition, there’re four professional master’s degree programs (MBA, MF, MLIS, and MEM). \nThe AS has been rated as national first-class undergraduate program, and the Big Data Management & Application has been rated as Jilin provincial first-class undergraduate program.\nJilin University is among the first 6 universities in China that confer doctoral degrees in LS, IS & AS (the first-level discipline). It is also the only university in Northeastern China authorized to confer doctoral degrees in Library Information and Archives Management (the first-level disciplines). \nThe school has also established an MBA education center and an Executive Development Programs base to cater for diverse educational needs. The school has been endeavoring to cultivate highly intellectual students and personnel, improve teaching resources and management, and foster student development.\n",
+            "representativePosition": "Representatitive",
+            "representative2Position": "Representative",
+            "representative2FieldOfStudy": "Digital archives resources",
+            "representativeName": " Jun Deng",
+            "fieldOfStudy": "Consumption and growth theories",
+            "iSchoolsContact": "Yingtong Guo    ",
+            "iSchoolsWebsite": "http://gl.jlu.edu.cn/English/Home.htm",
+            "representativeExternalProfile": "http://gl.jlu.edu.cn/info/1031/4260.htm",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_67d9d325e44d43d5aaf6a7bbb289525c~mv2.jpeg/Image%20of%20University.jpeg#originWidth=2667&originHeight=2000",
+            "region": "Asia Pacific",
+            "representative2ExternalProfile": "http://gl.jlu.edu.cn/info/1031/4294.htm",
+            "representativeEmail": "mailto:dengjun9722@163.com",
+            "iSchoolsWebsite1": "http://gl.jlu.edu.cn/English/Home.htm",
+            "membershipLevel": "iCaucus",
+            "representativeFieldOfStudy": "Archival theory",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/jilin-university",
+            "nameOfISchools": "School of Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:malee_ka@kku.ac.th",
+            "iSchoolsAddress": {
+                "city": "Tambon Sila",
+                "location": {
+                    "latitude": 16.4743065,
+                    "longitude": 102.8221956
+                },
+                "streetAddress": {
+                    "number": "123",
+                    "name": "ถนน มิตรภาพ",
+                    "apt": ""
+                },
+                "formatted": "123 ถนน มิตรภาพ Tambon Sila, Amphoe Mueang Khon Kaen, Chang Wat Khon Kaen 40002, Thailand",
+                "country": "TH",
+                "postalCode": "40002"
+            },
+            "nameOfUniversity": "Khon Kaen University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_71e118665709431684154b8cab31cb36~mv2.jpg/Malee_K_kku_edited.jpg#originWidth=1309&originHeight=1473",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_eb11f69672424c7b943f68506deff1bf~mv2.jpg/uni_kku.jpg#originWidth=960&originHeight=640",
+            "_id": "aca345d2-61c9-456a-b5b9-5406d0c4d294",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T11:34:03.047Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "Thailand",
+            "iSchoolsLogo": "wix:image://v1/9962f6_97f4682685e84f51a57fffc2284c12c6~mv2.png/Khon_Kaen_University_logo.png#originWidth=300&originHeight=300",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Since 1974, the Department of Library Science has gone through transformation with change in programs to its name and curriculum. Currently, the Department of Library and Information Science revised and develop a laboratory for library science and laboratory Computing for Information Science in 1992 and opened a Master of Arts program, a branch of Library and Information Science in1994.\nIn 2002, the department revised the curriculum again and changed the course name. It is a Bachelor of Arts program (Information Science) and offers a master's degree in Information Management and public relations in the same year. \nIt also offers a Doctor of Philosophy program in Information Studies with support from the Fulbright Foundation. The Faculty of Humanities and Social Sciences has changed the administrative structure, resulting in the Department of Library and Information Science. \n",
+            "iSchoolsContact": "Malee Kabmala",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_3f9f5af014364f929979ffe2fc577058~mv2.jpg/kku_uni_image.jpg#originWidth=960&originHeight=960",
+            "region": "Asia Pacific",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/khon-kaen-university",
+            "nameOfISchools": "Department of Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:choi@knu.ac.kr",
+            "iSchoolsAddress": {
+                "city": "Daehak-ro",
+                "location": {
+                    "latitude": 35.88883599999999,
+                    "longitude": 128.6102997
+                },
+                "streetAddress": {
+                    "number": "Daehak-ro",
+                    "name": "",
+                    "apt": "80"
+                },
+                "formatted": "80 Daehak-ro, Buk-gu, Daegu, South Korea",
+                "country": "KR",
+                "postalCode": "702-013"
+            },
+            "nameOfUniversity": "Kyungpook National University ",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_6c10837ef5c54eac8e6bbc6c275202ba~mv2.jpg/choi_Image.jpg#originWidth=350&originHeight=450",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_032d0672ffa0413a978fe7890a245da9~mv2.jpg/banner_knu_edited.jpg#originWidth=1665&originHeight=650",
+            "_id": "2fc9cad2-8da2-4b04-92f5-c92584c4c0fa",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T09:52:38.677Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "Korea",
+            "iSchoolsLogo": "wix:image://v1/9962f6_7c70d65be60f4349812e18bfa4439e28~mv2.png/Kyungpook_National_University_logo.png#originWidth=300&originHeight=300",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "The department has been renamed from Library Department in 1974 to Library and Information Science (LIS) in 1991. LIS established graduate course in 1978, and PhD course in 2000. It is developing into an institution training information experts.\nThe educational goal: LIS is a department studying theories and methods regarding selection, organization, storage, and dissemination scientifically. Using traditional methods and computers, LIS has intention to train abilities to understand and utilize those skills.\nLIS selects and collects the best from a lot of information and knowledge, and it organizes information systematically to use it conveniently. Also, there are multimedia-rooms where students can practice LIS.\nCareer guidance: Students with enough knowledge and skills will get librarian license including LIS degree and second librarian license. After graduation, they can have a job such as public libraries or companies or press media.\n",
+            "fieldOfStudy": "Information Service",
+            "iSchoolsContact": "Jae Hwang Choi",
+            "iSchoolsWebsite": "http://widit.knu.ac.kr/lis/",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_bb92a52cca3e48939a1fb325196a1e24~mv2.jpg/kyungpook-national-university-build.jpg#originWidth=825&originHeight=585",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://widit.knu.ac.kr/lis/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/kyungpook-national-university-",
+            "nameOfISchools": "Department of Library and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto: ishita.emi.982@m.kyushu-u.ac.jp",
+            "iSchoolsAddress": {
+                "city": "Fukuoka",
+                "location": {
+                    "latitude": 33.59819919999999,
+                    "longitude": 130.2235485
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Motooka, Nishi Ward, Fukuoka, 819-0385, Japan",
+                "country": "JP",
+                "postalCode": "819-0385"
+            },
+            "nameOfUniversity": "Kyushu University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_5a7369f29a774429ad6dfa4d276eefe0~mv2.png/representative-Associate%20Professor%20Emi%20ISHITA.png#originWidth=277&originHeight=415",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_9fed115c743d49dcbf88a2fc8fab52ed~mv2.jpg/banner.jpg#originWidth=473&originHeight=289",
+            "_id": "4913bca5-5803-424e-b055-10c05d2ea86b",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T10:56:17.242Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "Japan",
+            "iSchoolsLogo": "wix:image://v1/9962f6_b677ad8474fc445fb8d63aa9084f91c6~mv2.png/Kyushu_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://hyoka.ofc.kyushu-u.ac.jp/search/details/K003977/english.html",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "As part of the effort to develop the new frontiers of science, and to reorganize and reintegrate the scientific knowledge accumulated so far, we opened a new graduate school, the Graduate School of Integrated Frontier Sciences in April 2009. The increasing specialization and segmentation of fields of study has resulted in a vast amount of intellectual assets. The school is designed to reorganize these assets to pursue new scientific knowledge and value in an integrated manner, thereby contributing to the solutions of various pressing problems that face today's scientific community and society at large, all while training personnel to acquire the ability to work for this end.\nIt has three departments. The Department of Kansei Science aims to train highly skilled personnel who can lead in the creation of kansei value from the perspectives of the users, the main beneficiaries of knowledge, and with the correct understanding of human kansei needs. The Department of Automotive Science aims to train specialists to acquire the ability to contribute to the creation of a new automotive society based on an integrated and advanced knowledge of automobiles, state-of-the-art technologies, human needs, and society. And the Department of Library Science aims to train specialists required for the \"field of the library\" where new knowledge is created and maintained to enable user-oriented information management and provision.\n",
+            "iSchoolsContact": "Emi Ishita",
+            "iSchoolsWebsite": "http://www.ifs.kyushu-u.ac.jp/pages/eng/ifs_02.html",
+            "joinDate": 2018.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_3e65d1e7ff3748d5a054c529062c684c~mv2.jpg/image.jpg#originWidth=411&originHeight=266",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://www.ifs.kyushu-u.ac.jp/pages/eng/ifs_02.html",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/kyushu-university",
+            "nameOfISchools": "Department of Library Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:gillian.oliver@monash.edu",
+            "iSchoolsAddress": {
+                "city": "Clayton",
+                "location": {
+                    "latitude": -37.9145125,
+                    "longitude": 145.1349971
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Wellington Road",
+                    "apt": ""
+                },
+                "formatted": "Wellington Rd, Clayton VIC 3800, Australia",
+                "country": "AU",
+                "postalCode": "3800"
+            },
+            "nameOfUniversity": "Monash University",
+            "iSchoolsContactImage": "wix:image://v1/39c5e8_e204be99347443d38b3658db1560777b~mv2.jpg/gillian%20oliver.jpg#originWidth=956&originHeight=1024",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_d9221f24ad2b4a40a07d53900cac3baf~mv2.jpg/monash%20university%20banner.jpg#originWidth=2000&originHeight=887",
+            "_id": "c434f5c7-5218-44eb-b9bd-5757d755027b",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-03-31T11:29:19.690Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "Australia",
+            "iSchoolsLogo": "wix:image://v1/9962f6_077bd368e29d47f18b7e8467f17a0dad~mv2.png/Monash_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://research.monash.edu/en/persons/gillian-oliver",
+            "iSchoolsPosition": "Chair Elect",
+            "iSchoolDescription": "We are the only dedicated IT faculty out of the prestigious Group of Eight. So, you can be sure that technology is everything we do. Guided by our ethos 'IT for social good', we are also active champions of equity, diversity and inclusion, and constantly seeking new ways to support Indigenous Australians.\nThrough our cross-cutting themes, three departments and a range of centers, institutes, and labs, we are empowered to make a lasting impact across many areas. A leading faculty, we are known for excellence and innovation in both IT research and education.\nAll our interactions and activities are driven by an important purpose and underpinned by a set of shared values. At Monash IT, we envisage a world where equality is not a goal to achieve but a norm to celebrate. We work in partnership and consultation with Indigenous Elders, organizations, and communities on a range of empowering initiatives.\nOur staff members are the heart of our faculty. Their diverse expertise, perspectives and backgrounds make us more aware and equipped to address the challenges in our world.\n",
+            "fieldOfStudy": "Information Management",
+            "iSchoolsContact": "Gillian Oliver",
+            "iSchoolsWebsite": "https://www.monash.edu/it",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_2e676cb54d0144ff976df3a7b4da2fbf~mv2.jpg/monash%20university.jpg#originWidth=1600&originHeight=1050",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.monash.edu/it",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/monash-university",
+            "nameOfISchools": "Faculty of Information Technology"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:junaidi.abdullah@mmu.edu.my",
+            "iSchoolsAddress": {
+                "city": "Ayer Keroh",
+                "location": {
+                    "latitude": 2.2652588,
+                    "longitude": 102.2832509
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Jalan Ayer Keroh Lama",
+                    "apt": ""
+                },
+                "formatted": "Jln Ayer Keroh Lama, Kampung Baru Ayer Keroh, 75450 Ayer Keroh, Melaka, Malaysia",
+                "country": "MY",
+                "postalCode": "75450"
+            },
+            "nameOfUniversity": "Multimedia University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_71bfa2c04633431f968a44725032beb6~mv2.jpg/Junaidi_A_MMU.jpg#originWidth=413&originHeight=591",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_088e0b99784f45388ddc819b83bd4c74~mv2.jpg/Multimedia-University-MMU.jpg#originWidth=1140&originHeight=530",
+            "_id": "b74d8f8a-4686-44e2-9421-110b9a900eec",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T09:19:44.010Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "Malaysia",
+            "iSchoolsLogo": "wix:image://v1/9962f6_f51426c394bb4d0e9ef135ba7a00679d~mv2.png/Multimedia_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://mmuexpert.mmu.edu.my/junaidiabdullah",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "In this constantly evolving digital world, Information and Communication Technology is more important than ever. As ICT continues to transform the way people communicate, learn, work and play, the career prospects for IT graduates are both diverse and rewarding. Whether it Is Artificial Intelligence, Data Science, Security Technology or Software Engineering, a degree from MMU will hold you in good stead for the future.\nSince 1997, the Faculty of Information Science and Technology (FIST) Melaka campus has been a trendsetter in ICT education and research, with a rigorous academic approach designed to produce innovative graduates who are well equipped to enact positive changes in society.\n",
+            "fieldOfStudy": "Augmented Reality",
+            "iSchoolsContact": "Junaidi Bin Abdullah",
+            "iSchoolsWebsite": "http://www.mmu.edu.my",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_7b6768907e0e4155b4c59a75832ad8b6~mv2.jpg/Multimedia%20University1.jpg#originWidth=1526&originHeight=768",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://www.mmu.edu.my",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/multimedia-university",
+            "nameOfISchools": "Faculty of Information Science and Technology, Multimedia"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:plei@nju.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Nanjing",
+                "location": {
+                    "latitude": 32.0568391,
+                    "longitude": 118.7789602
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Gulou, Nanjing, Jiangsu, China, 210093",
+                "country": "CN",
+                "postalCode": "210093"
+            },
+            "nameOfUniversity": "Nanjing University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_79a86a21b66144b4a928b9565ce5178d~mv2.jpg/representatives%20of%20school-Professor%20Lei%20Pei_edited.jpg#originWidth=145&originHeight=161",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_2a8d81e07bda47c4ae7b333cc379a850~mv2.jpg/banner.jpg#originWidth=1920&originHeight=532",
+            "_id": "ba266a15-bd06-45fa-a79a-beb35becf5b7",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-13T12:12:14.293Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_1d1e903255bc4cee887ff3a51845cd85~mv2.png/logo_edited.png#originWidth=71&originHeight=67",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Information Management is one of the pioneers in Information Management education in China. As the rapid development and constant outstanding performance, the school won high reputation both inside and outside the country. For example, the discipline named “Library, Information and Archive Management” represents the highest quality of LIS schools in China, which is voted as a candidate of world outstanding disciplines in National Outstanding Discipline Support Plan, and ranked A+ place in the discipline evaluation in China in 2017. Besides that, Information Science of our school is a National Key Discipline in 2007, “Library, Information and Archive Management” is a superiority discipline in Jiangsu Province in 2014. What’s more, our school plays a very important role in LIS community, it contains many steering academic organizations such as the Secretariat Office of Education Directive Committee for Professional Master of Publishing, the Strategy Consultant and Secretariat Office of Education for Secrecy Science, and so on.\n\nSince 1913, the more than 100 years’ history has seen the rapid development of our school. We first offered library courses in China in 1913, then set up departments in 1927. Yizheng Liu, Xiaoshi Hu, Zhongfan Chen, Kan Huang, Shi Gu, Nanyang Qian, Xiaoyuan Li, Youfeng Hong, Guojun Liu, Guoding Wan, Tingyong Shi, Zhiqian Dai, Jiazhi Zhu, Zhibai Gui and so on, who had taught here successively bringing the rich cultural heritage and tradition for the school. After the restoration of discipline construction in 1978, Zhusheng Xu, Zhiren Zou, Qi Huang, Guchao Shen and other successive leaders and deans, inherited the past and opened future, strengthened innovation step by step, highlighted our own characteristics, persevered in highlevel development. When coming into information era, we renamed our department as Information Management in 1992, upgraded into School of Information Management and joined the iSchools in 2011.In 2020, the school consists of more than 60 faculties and staffs, a number of leading scientists and more than 800 students. 3 Chang Jiang Scholars, 1 Academician of European Academy of Sciences and Arts, and 1 Senior Professor of Nanjing University formed the leaders team of our school, and followed by another 11 outstanding professors who are voted as chairman or vice-chairman in various national academy boards. Recent years, more and more young elites who got PhD degrees abroad are rushing into our school, injecting fresh but dynamic and international energies into our school.\n\nA saying says that a tree has to strike a firm root before it can flourish. A river has to have a fully dredged source before it can flow unceasingly far, which implicated the philosophy and pedagogy of our school. The spirit of information management science is multidiscipline and application science, thus it has to integrate and merge computer science, information science , social science, management science and even humanity science into new knowledge to create new values and collaborative innovations. We are frequently promoted by the significant advances in information technology and widespread application of new business, accordingly we have to incorporate our professional curriculum design so that the subject knowledge is synchronized with the development of innovative technologies; we are always concerned with organizational and social changes and have the ability to respond to the needs of national strategies, policies, governance and operation, to provide think-tank services for our country in the strategic analysis, public policy research, intelligence work, etc.\n\nWe are proud of the achievements we have made for the school, and are proud of the scholars who created history of the school in the past. We are grateful to the alumni and social colleagues who are always concerned about the development of our school. We also sincerely expect the young talents to come to apply a job and young students to come to study in our school and we will extend deepest welcome to you!",
+            "iSchoolsContact": "Lei Pei",
+            "iSchoolsWebsite": "https://im.nju.edu.cn/imeng/main.htm",
+            "joinDate": 2011.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_1bbbfe8c2d034e42b22e9d48af6ccaf5~mv2.jpg/image.jpg#originWidth=950&originHeight=585",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://im.nju.edu.cn/imeng/main.htm",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/nanjing-university",
+            "nameOfISchools": "School of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:hxm626@163.com",
+            "iSchoolsAddress": {
+                "city": "Nan Jing Shi",
+                "location": {
+                    "latitude": 32.02920699999999,
+                    "longitude": 118.8596339
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "罗汉巷",
+                    "apt": ""
+                },
+                "formatted": "China, Jiang Su Sheng, Nan Jing Shi, Xuan Wu Qu, 罗汉巷2VH5+MVJ 邮政编码: 210095",
+                "country": "CN",
+                "postalCode": "210095"
+            },
+            "nameOfUniversity": "Nanjing University of Science and Technology",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_98a15ce7120d4484a4dec73f76e48588~mv2.jpg/head%20of%20school-Professor%20Xiaomei%20Han_edited_edited.jpg#originWidth=242&originHeight=311",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_120c3e7364c44f2c8f710128488693d5~mv2.png/banner.png#originWidth=2000&originHeight=395",
+            "_id": "332c4744-a896-4976-b66d-f8bc38effb11",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T12:24:25.548Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_d20087e7afec44a38a1284d2ff237b02~mv2.png/Nanjing_University_of_Science_and_Technology_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://sem.njust.edu.cn/40/b1/c13365a213169/page.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Situated in Nanjing, the ancient capital of six dynasties in Chinese history, Nanjing University of Science and Technology (NJUST) was founded in 1953, and it is one of the seven universities affiliated to the Ministry of Industry and Information Technology. As a key university of “Project 211”and a member of the “Double First-class” construction universities and disciplines, NJUST ranks the 36th on the latest Academic Ranking of World Universities (ARWU) and the 41st among all the Chinese Universities on QS ranking. The university boasts 2 gorgeous scenic campuses: Nanjing Campus and Jiangyin Campus, covering an area of 288 hectares.\n\n \n\nNJUST is home to a total of 20 schools, with an enrollment of more than 30,000 students, including around 800 international students. Furthermore, NJUST has more than 2000 full-time faculty members, of whom 20 are Academicians of Chinese Academy of Sciences or Chinese Academy of Engineering. NJUST have annual research funding which exceeds 1.5 Billion RMB.\n\n\n\nAt present, NJUST has 9 national key disciplines, 6 provincial first-level disciplines and 12 provincial key disciplines. The 6 disciplines of Engineering, Chemistry, Materials Science, Computer Science, Environment and ecology, physics have been listed among the top 1% of ESI and Engineering has entered 1‰. NJUST offers a diverse curriculum including such subjects as engineering, science, management, economics, humanities, law, education, and many more. NJUST carries out pioneering research in the fields of Advanced Materials, Applied Chemistry, Optical Engineering, Optoelectronic Information, Electromagnetic and Microwave Technology, Pattern Recognition and Intelligent System, etc. \n\n\n\nNJUST has established cooperative relationships with more than 100 universities and institutions from 31 countries and regions, including UCLA, UCSB, McMaster University, University of Oxford, University of Coventry, University of Leuven, University of Lorrain, University of Stuttgart, Australian National University, University of Queensland, etc. Apart from pushing forward joint programs with these international partners from renowned educational establishments, NJUST has established the Sino-French Engineer School, which is a joint institution cultivating CTI certified tri-lingual engineers. NJUST also retains the Confucius Institute at the Gomel State University, Belarus, which is engaged in Sino-Belarus cultural exchange.",
+            "iSchoolsContact": "Xiaomei Han",
+            "iSchoolsWebsite": "https://english.njust.edu.cn/",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_b9ccfdf59d0e43b5b036d93ad579cb3e~mv2.jpg/image.jpg#originWidth=2000&originHeight=395",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://english.njust.edu.cn/",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/nanjing-university-of-science-and-technology",
+            "nameOfISchools": "School of Economics and Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:yuelinli@nankai.edu.cn",
+            "iSchoolsAddress": {
+                "location": {
+                    "latitude": 39.10484,
+                    "longitude": 117.17949
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Wei Jin Lu",
+                    "apt": ""
+                },
+                "formatted": "Wei Jin Lu, China, 300071",
+                "country": "CN",
+                "postalCode": "300071"
+            },
+            "nameOfUniversity": "Nankai University",
+            "representativeContactImage": "wix:image://v1/f6f74b_77f6e944a0f141e18a2c43daa22cfded~mv2.jpg/Yao_Nankai_uni.jpg#originWidth=180&originHeight=248",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_7061f0dad9214df0b1e08cbac9117aed~mv2.jpg/Yuelin%20Li.jpg#originWidth=1750&originHeight=2450",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_552fba2ccd0b4885b565b94db677f0b8~mv2.jpg/0dceb0a0-d6b4-40a7-b449-d93417bc6d26.jpg#originWidth=743&originHeight=290",
+            "_id": "69f1b87c-cfda-43ee-a514-dcb30e85910d",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T11:50:17.665Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-01-04T16:18:56.241Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_143c3ccd6f7940179cb107c635ddf6f1~mv2.png/Nankai_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://bs.nankai.edu.cn/2019/0101/c13658a170205/page.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The Department of Information Resources Management at Nankai University offers LIS education at all levels in China. With a faculty made up of Internationally and nationally recognized scholars, our department has been creating leaders in the LIS professions for more than 30 years. Our graduates are filling conceivable and emerging roles on the library and information spectrum — as library directors, public librarians, knowledge managers, business information specialist, health informatics experts, government archivists, and other industries that are significant for solving China's critical issues. Thriving as part of the dynamic and innovative Business School, the Department of Information Resources Management endeavors to lead information empowerment and knowledge creation in management theories and practice via active research and collaborations across multiple disciplines, including Accounting, Business Administration, Entrepreneurship, Human Resources Management, Marketing, and Information System. We pursue a sustainable growth and development and aim to serve the government, libraries, communities, industries, and non-profit organizations by sharing our knowledge and expertise in LIS.",
+            "representativePosition": "Assistant Professor",
+            "representativeName": "Yao Zhang",
+            "fieldOfStudy": "Interactive Information retrieval",
+            "iSchoolsContact": "Yuelin Li",
+            "iSchoolsWebsite": "https://bs.nankai.edu.cn/InformationResourcesManagement/list.htm",
+            "representativeExternalProfile": "https://bs.nankai.edu.cn/2019/0101/c13658a262970/page.htm",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_939c8a4855874157a9705eff57d9a32c~mv2.jpg/header_nankai-uni.jpg#originWidth=1950&originHeight=700",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:yzhirm@nankai.edu.cn",
+            "iSchoolsWebsite1": "https://bs.nankai.edu.cn/InformationResourcesManagement/list.htm",
+            "membershipLevel": "Basic",
+            "representativeFieldOfStudy": "Health informatics",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/nankai-university",
+            "nameOfISchools": "Department of Information Resources Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:ashlgoh@ntu.edu.sg",
+            "iSchoolsAddress": {
+                "subdivisions": [
+                    {
+                        "code": "Singapore",
+                        "name": "Singapore",
+                        "type": "ADMINISTRATIVE_AREA_LEVEL_3"
+                    },
+                    {
+                        "code": "Western Water Catchment",
+                        "name": "Western Water Catchment",
+                        "type": "ADMINISTRATIVE_AREA_LEVEL_4"
+                    },
+                    {
+                        "code": "SG",
+                        "name": "Singapore",
+                        "type": "COUNTRY"
+                    }
+                ],
+                "city": "Singapore",
+                "location": {
+                    "latitude": 1.3483099,
+                    "longitude": 103.6831347
+                },
+                "countryFullname": "Singapore",
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": "",
+                    "formattedAddressLine": "Nanyang Technological University"
+                },
+                "formatted": "Nanyang Technological University, Singapore",
+                "country": "SG",
+                "postalCode": "639798"
+            },
+            "nameOfUniversity": "Nanyang Technological University",
+            "representativeContactImage": "wix:image://v1/39c5e8_4b90017898424e1c896864e27517596e~mv2.jpg/24.-LEE-Chei-Siancec541d4-65f7-4b87-a990-c47e84a42808.jpg#originWidth=300&originHeight=300",
+            "iSchoolsContactImage": "wix:image://v1/39c5e8_d320500444fd4d3198768cc8a2add596~mv2.jpg/Assoc%20Prof%20Dion%20Goh%20-%20Cropped.jpg#originWidth=300&originHeight=300",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_9ce9feda9b734599898ab3ff7c3328a1~mv2.jpg/3.%20Banner%20Image%20of%20school.jpg#originWidth=1440&originHeight=500",
+            "_id": "b9d17a8a-746d-4a0b-9542-fa58de747419",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2023-08-28T09:29:27.662Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-08-28T09:49:30.356Z"
+            },
+            "country": "Singapore",
+            "externalProfile": "https://dr.ntu.edu.sg/cris/rp/rp00903",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "Located in Singapore, at the Nanyang Technological University, the Wee Kim Wee School of Communication and Information (WKWSCI) is a world-class centre of excellence with an international faculty, state-of-the-art communication laboratories, and global institutional affiliations.\n \nWKWSCI stewards an in-depth focus in research, generating empirical and humanistic analyses of communication and information topics and policy issues important not just to Singapore, but to the region and the world. Our faculty includes some of the foremost global scholars who teach and conduct research on a diverse range of topics such as: AI and human-computer interaction, information behavior, library leadership and management, health and science communication, strategic communication, games and gamification, big data analytics and film/documentary studies.\n \nAt WKWSCI, we are constantly adapting our curriculum to explore, examine and address the complex challenges of our time. Our undergraduate programme combines experiential, innovative and overseas learning opportunities. Our graduate programmes allow students to enrol in research graduate programmes or in our four coursework programmes that further provide educational opportunities in specialized fields. We are committed to delivering quality education experiences that prepares students to deepen and further develop their careers.\n \nThe exceptional School, faculty and students have together made major impact in the spheres of communication and information, winning awards in creative, academic, journalistic and research arenas at the highest levels of international competitions.",
+            "representativePosition": "Associate Chair for Faculty",
+            "representativeName": "Chei Sian Lee",
+            "fieldOfStudy": "Online Information Sharing & Crowdsourcing",
+            "iSchoolsContact": "Dion Hoe-Lian Goh",
+            "iSchoolsWebsite": "https://www.ntu.edu.sg/wkwsci",
+            "rectangularLogo": "wix:image://v1/39c5e8_6510c943900b489194bbff21a4b2cf41~mv2.jpg/1.%20NTU%20WKWSCI%20Logo1.png#originWidth=2363&originHeight=650",
+            "representativeExternalProfile": "https://dr.ntu.edu.sg/cris/rp/rp00497",
+            "joinDate": 2023.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_74c082c14096484c9ea73be2f53eb8d0~mv2.jpg/2.%20Image%20of%20NTU%20WKWSCI.jpg#originWidth=1600&originHeight=1066",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:leecs@ntu.edu.sg",
+            "membershipLevel": "Sustaining",
+            "representativeFieldOfStudy": "Technology-Mediated Learning & Social Interaction",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/nanyang-technological-university",
+            "nameOfISchools": "Wee Kim Wee School of Communication and Information"
+        },
+        {
+            "iSchoolsContactEmail": "mailto: cmlin@nccu.edu.tw",
+            "iSchoolsAddress": {
+                "location": {
+                    "latitude": 24.9878632,
+                    "longitude": 121.5774304
+                },
+                "streetAddress": {
+                    "number": "64",
+                    "name": "Section 2, Zhinan Road",
+                    "apt": ""
+                },
+                "formatted": "No. 64, Section 2, Zhinan Rd, Wenshan District, Taipei City, Taiwan 116",
+                "country": "TW",
+                "postalCode": "116"
+            },
+            "nameOfUniversity": "National Chengchi University ",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_4ca68fc7a90548f38545bd3b6d1a017b~mv2.jpg/Chiao-Min%20Lin.jfif#originWidth=250&originHeight=300",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_903e44d76185442d9466cc904643f7d2~mv2.jpg/banner.jpg#originWidth=1200&originHeight=567",
+            "_id": "57ea57ff-da9c-44ba-a376-5b742d7df9a9",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T12:17:17.559Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_256841032cf24966957874194e7834b1~mv2.png/CHENZI.png#originWidth=321&originHeight=272",
+            "externalProfile": "https://ah.nccu.edu.tw/scholar?id=6962&locale=en-US",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The Institute was founded in 1996 with its research covering three fields, namely Library and Information Science, Archive Science and Museology. The Institute was renamed as the “Graduate Institute of Library, Information & Archival Studies” in 2003 to promote the teaching and research in the fields of Library and Information Science and Archive Science.\n\nIn 2009, we added a new master program, E-learning Master Program of Library and Information Studies, which is the first MA program by the way of distance education to get the certificate. Also, we established PhD Program in 2011.\n\nThe Instituted was established with the goals to develop libraries with equal weights on theory and practice, to foster superior professionals for the library information service and archives management organizations, and to promote fusion with other relevant disciplines. We also provides inter-university courses for students to facilitate flexible study in cooperation with other universities, to understand the development of the libraries and archives and dominate the multifaceted information environment in hopes of cultivating hi-tech professionals competent to meet the challenges of the knowledge economy era, and ultimately launching the information service to a new level. Presently, the major academic research of the Institute covers: Library and Information Science, Archival Science, Digital Library, Digital Learning and Informetrics, and academic publishing and spreading and so on.",
+            "fieldOfStudy": "Archives Management",
+            "iSchoolsContact": "Chiao-Min Lin",
+            "iSchoolsWebsite": "https://2018nccu.nccu.edu.tw/index.php?Plugin=o_nccu&Action=nccuunitdet&Lang=en&unit=155",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_dea666bbc42a496a96e5d4f1aa5e0466~mv2.jpg/image.jpg#originWidth=506&originHeight=899",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://2018nccu.nccu.edu.tw/index.php?Plugin=o_nccu&Action=nccuunitdet&Lang=en&unit=155",
+            "membershipLevel": "Associate",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/national-chengchi-university-",
+            "nameOfISchools": "Graduate Institute of Library Information and Archival Studies"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:clavenke@ntnu.edu.tw",
+            "iSchoolsAddress": {
+                "location": {
+                    "latitude": 25.0261656,
+                    "longitude": 121.5275484
+                },
+                "streetAddress": {
+                    "number": "162號",
+                    "name": "Section 1, Heping East Road",
+                    "apt": ""
+                },
+                "formatted": "No. 162號, Section 1, Heping E Rd, Da’an District, Taipei City, Taiwan 106",
+                "country": "TW",
+                "postalCode": "106"
+            },
+            "nameOfUniversity": "National Taiwan Normal University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_ec4557c17d7b4666883814c4184ae6e5~mv2.jpg/ke.jpg#originWidth=327&originHeight=324",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_7b72c685d78549faa59c65b82533ac06~mv2.jpg/uni_ntnu.jpg#originWidth=1440&originHeight=1080",
+            "_id": "f3cd3601-810a-4a1f-8b79-e5d9e7eaa815",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T10:27:44.776Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-23T22:16:55.902Z"
+            },
+            "country": "",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_100a66558cb5464d9986a7de7170e3d3~mv2.png/NTNU_LOGO.png#originWidth=321&originHeight=272",
+            "externalProfile": "https://scholar.lib.ntnu.edu.tw/en/persons/hao-ren-ke",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The groundwork of the Taiwan’s first education effort in Library and Information Studies(LIS) began in 1955, as an undergraduate track within the Department of Adult and Continuing Education at the National Taiwan Normal University.\n\nTo nurture advanced talents for library and information services in meeting the needs of our knowledge-based society, the University established an independent Graduate Institute of Library and Information Studies in 2002.  \n\nIn 2005, we initiated the In-service Master Program of Library and Information Studies, providing professional development opportunities for in-service library and information service practitioners, with emphasis on knowledge and skills of information technologies.\n\nCooperating with the University’s Fine Arts Department, History Department and Chinese Department, in 2006 we launched the Digital Content and Creative Teaching Advanced Certification Program, for further promoting interdisciplinary collaboration and nurturing digital content talents.\n\nThe Institute was granted the permission by the Minister of Education in 2008 to launch the Ph.D. program, and recruited doctorate students for the first cohort in June 2009.\n\nThe goal of our Ph.D. program is to nurture innovative talents for research and leadership in library and information services, in responding to the paradigm shift of library and information research, as well as the trends in the digital society.\n\nIn 2016, GLIS at NTNU has become a member of iSchool which is an international consortium of Information Schools dedicated to advancing the information field on the broad subjects about the interaction among people, information, and technology.",
+            "fieldOfStudy": "Digital and Internet Technology",
+            "iSchoolsContact": "Hao-Ren Ke",
+            "iSchoolsWebsite": "https://www.glis.ntnu.edu.tw/index.php/en/main/",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_7b72c685d78549faa59c65b82533ac06~mv2.jpg/uni_ntnu.jpg#originWidth=1440&originHeight=1080",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.glis.ntnu.edu.tw/index.php/en/main/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/national-taiwan-normal-university",
+            "nameOfISchools": "Graduate Institute of Library and Information Studies, College of Education"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:yuweichang2013@ntu.edu.tw",
+            "iSchoolsAddress": {
+                "location": {
+                    "latitude": 25.0173405,
+                    "longitude": 121.5397518
+                },
+                "streetAddress": {
+                    "number": "1",
+                    "name": "Section 4, Roosevelt Road",
+                    "apt": ""
+                },
+                "formatted": "No. 1, Section 4, Roosevelt Rd, Da’an District, Taipei City, Taiwan 10617",
+                "country": "TW",
+                "postalCode": "10617"
+            },
+            "nameOfUniversity": "National Taiwan University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_1b160ab2d7dd4b22a9d61643abd61c44~mv2.jpg/NTNU_TAIPEI_edited.jpg#originWidth=349&originHeight=436",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_57f67526f8f34892a8aef680559ed753~mv2.jpg/ntulib_edited.jpg#originWidth=2048&originHeight=970",
+            "_id": "ba6b8add-1f33-4312-8815-abf70dda427a",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-13T11:30:31.960Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_45c75b8daeba43a98bcf419242ec42d7~mv2.png/TAIWAN.png#originWidth=321&originHeight=272",
+            "externalProfile": "https://www.lis.ntu.edu.tw/english/?page_id=264",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Department of Library and Information Science (LIS) at National Taiwan University was established in 1961. It is the first LIS department in Taiwan to offer undergraduate, master’s and PhD programs. It has cultivated numerous LIS professionals and diverse talents for Taiwan. The faculty of the department comprises 12 full-time teachers and 10 part-time teachers. Besides library science, the department expands the scope of its education and research to include information science, educational technology, knowledge management and other related fields. In addition, faculty keep up with the trends in the information society and conduct cutting-edge information research that is both interdisciplinary and integrated with technology. The department hosts four main research groups: data science, informetrics, information design and services, and digital humanities.",
+            "fieldOfStudy": "LIS, Informetrics",
+            "iSchoolsContact": "Yu-Wei Chang",
+            "iSchoolsWebsite": "https://www.lis.ntu.edu.tw/english/",
+            "joinDate": 2018.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_077b2c0fc11443259b686c658beb5e7e~mv2.jpg/NTNU_Taipei_uni.jpg#originWidth=1536&originHeight=2048",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.lis.ntu.edu.tw/english/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/national-taiwan-university",
+            "nameOfISchools": "Department and Graduate Institute of Library and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:jiu@pku.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Hai Dian Qu",
+                "location": {
+                    "latitude": 39.99116100000001,
+                    "longitude": 116.307372
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "Jing Yuan Lu",
+                    "apt": ""
+                },
+                "formatted": "X8R4+FW9, Jing Yuan Lu, Hai Dian Qu, Bei Jing Shi, China, 100084",
+                "country": "CN",
+                "postalCode": "100084"
+            },
+            "nameOfUniversity": "Peking University",
+            "representativeContactImage": "wix:image://v1/f6f74b_c0d4f088501d457db25c0f1ec572b944~mv2.jpg/Zhang%20Pengyi_Pku.jpg#originWidth=100&originHeight=101",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_738ca6f8816545ccaac0295e12d724aa~mv2.jpg/head%20of%20school-Professor%20Jiuzhen%20Zhang.jpg#originWidth=100&originHeight=100",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_56a6d0645dd24f8fa2248d04fadad2ec~mv2.jpg/Pku_banner.jpg#originWidth=3325&originHeight=1260",
+            "_id": "b4612bf0-4e6a-4ede-95a9-93ec8fbe94bc",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T12:40:42.294Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_1e2e5a39c9744e48b2638b6f9aab7cd5~mv2.png/PEK.png#originWidth=321&originHeight=272",
+            "externalProfile": "http://www.im.pku.edu.cn/zjxg/jgsz/xxzld/321301.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The department pays attention to the improvement of teaching quality. In recent years, it has won the National Excellent Course Award and the National Excellent Textbook Award. Emphasis on teaching network, courseware multimedia, data digitization. We have been controlling the number of enrollments and pursuing high-level teaching quality. We focus on the combination of theory and practice, as well as cultural courses and professional courses. \n\nStudents have a solid knowledge base and have good development potential. At the undergraduate level, we follow the school's sixteen-character policy of \"strengthening the foundation, diluting majors, teaching students in accordance with their aptitude, and diverting training\" to cultivate students' innovative consciousness. At the master's level, it focuses on the combination of theory and practice, and focuses on cultivating professional application talents with leadership and innovation ability. At the doctoral level, it focuses on the cultivation of theoretical literacy and the cultivation of specialized talents who can independently engage in innovative research.\n\nThe department pays attention to openness and international cooperation and expands academic exchanges with colleagues at home and abroad. Every year, it selects teachers who go abroad for further study or lectures, selects doctoral students to study in foreign universities, and invites scholars from home and abroad to give lectures, speeches, or academic cooperation\n",
+            "representativePosition": "Representative",
+            "representativeName": "Zhang Pengyi",
+            "iSchoolsContact": "Jiuzhen Zhang",
+            "iSchoolsWebsite": "http://www.im.pku.edu.cn/",
+            "representativeExternalProfile": "http://www.im.pku.edu.cn/szll/syry/zzjspx/231404.htm",
+            "joinDate": 2018.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_de6de4cb444b4740baeabcf5d8020362~mv2.jpg/image.jpg#originWidth=1080&originHeight=720",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:pengyi@pku.edu.cn",
+            "iSchoolsWebsite1": "http://www.im.pku.edu.cn/",
+            "membershipLevel": "iCaucus",
+            "representativeFieldOfStudy": "Information and Knowledge organisation",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/peking-university",
+            "nameOfISchools": "Department of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:liuyuenan@ruc.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Hai Dian Qu",
+                "location": {
+                    "latitude": 39.9696062,
+                    "longitude": 116.3188145
+                },
+                "streetAddress": {
+                    "number": "59",
+                    "name": "Zhong Guan Cun Da Jie",
+                    "apt": ""
+                },
+                "formatted": "59 Zhong Guan Cun Da Jie, Hai Dian Qu, Bei Jing Shi, China, 100872",
+                "country": "CN",
+                "postalCode": "100872"
+            },
+            "nameOfUniversity": "Renmin University of China",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_04518aca586046e286f864de70b9f189~mv2.jpg/Yuenan_Liu_RUC.jpg#originWidth=415&originHeight=415",
+            "iSchoolsBanner": "wix:image://v1/9962f6_fcacdcff31584a39a2d9b3267da0052f~mv2.jpg/banner.jpg#originWidth=474&originHeight=254",
+            "_id": "d8ed0e81-d7ca-4b97-af32-cf4c390f6ddc",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T11:56:20.337Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-01-04T12:03:07.562Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_2ec04a324e3645f88f2f9c96f82e30f8~mv2.png/Renmin_University_of_China_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://irm.ruc.edu.cn/teachermore.php?cid=8&id=34",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Information Resource Management (SIRM) at Renmin University of China is a leading institution of higher education in the field of information management in China, composed of educators and students who are committed to the teaching, research and social practice in this field. As an information resource management discipline with domestic leading power and continuously growing global reputation, the school has cultivated thousands of scholars, public leaders and practitioners in archives, libraries, information and knowledge management, information system, digital humanities and other information fields.\nThe SIRM holds the educational belief of “Benefiting from both humanities and social science and natural science; Developing ways of thinking to be intellectuals; Enhancing code of ethics and professional development; Pursuing pragmatism and innovation”. The SIRM is taking endless efforts with scientific attitudes and innovation spirits to make full use of our university multidisciplinary interactive platforms to keep its top national leading role in archival studies, information analytics and digital memory studies. It is actively developing relevant disciplines and constantly improving the teaching and research level of digital humanities, data science, library and information science (LIS), and information resource management (IRM). It is expected to make greater contributions to the development of Renmin University into one of the world’s leading universities specializing in the fields of humanities and social sciences.\nExploring the school, you will find it an ideal community for students to learn, to think, to collaborate, and to practice. Benefiting from its location in Beijing, the capital city of China, SIRM can provide students with diverse prolific professional resources and opportunities. Our faculty members graduated from well-known universities at home and abroad, and one third of them serve as committee members in iSchools and the International Archives Council, and experts in the three international organizations for standardization, ISO, IEC and ITU. Additionally, SIRM has built dozens of internship bases with outstanding archives, libraries, information consulting companies, and big data enterprises to enable students to gain practical experience and internship opportunities. Therefore, the academic and practical support makes SIRM an excellent platform for comprehensive development of faculty members, students and other stakeholders.\nSince the founding year of 1952, SIRM offers diverse programs for future information professionals, including bachelor programs in archival studies (AS), IRM and government information management, master programs in LIS, information science (IS), AS, IRM, information analytics (IA), digital humanities, and Ph.D. programs in AS, LIS, IRM, and IA. In October 2017, SIRM earned the national first-class discipline fund from “Double-First Class” initiative. In 2020, the bachelor program of archival studies has just been funded by the national first-class undergraduate program announced by the Ministry of Education.\nSIRM is the iCaucus member of the iSchools and the first-class member of the International Information Resource Management Association (IRMA) in China. SIRM serves as the UNESCO World Memory Project academic center, the C-class member of the International Archives Council (ICA), the Education Steering Committee (ICA/SAE), and cooperate with partners in several ICA entrusted global archival education cooperation programs. Some faculty members have also actively been participating in the development of international standards related to electronic records management, smart city, information management and many other international cooperation projects with significant influences, such as InterPARES. Besides, various forms of cooperation and exchanges with worldwide-renowned universities and research institutions have also established our international vision and prestige. In addition, SIRM will host the annual iConference 2021, welcome scholars from every corner of the world to join us and promote the iField together.\n\n",
+            "fieldOfStudy": "Electronic document management",
+            "iSchoolsContact": "Yuenan Liu",
+            "iSchoolsWebsite": "http://sirm.ruc.edu.cn/",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/9962f6_a5c5b568cf154eb1af65eb44926dbe06~mv2.jpg/image.jpg#originWidth=1024&originHeight=646",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://sirm.ruc.edu.cn/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/renmin-university-of-china",
+            "nameOfISchools": "School of Information Resource Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:wanglh@shu.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Bao Shan Qu",
+                "location": {
+                    "latitude": 31.3185391,
+                    "longitude": 121.3971211
+                },
+                "streetAddress": {
+                    "number": "380",
+                    "name": "Nan Chen Lu",
+                    "apt": ""
+                },
+                "formatted": "380 Nan Chen Lu, Bao Shan Qu, Shang Hai Shi, China, 201907",
+                "country": "CN",
+                "postalCode": "201907"
+            },
+            "nameOfUniversity": "Shanghai University",
+            "iSchoolsContactImage": "wix:image://v1/757497_7c711cfea37041b8b1e4d24c1c3d00a4~mv2.jpg/A%20profile%20photo%20of%20Lihua%20Wang_edited.jpg#originWidth=1080&originHeight=1027",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_45da73456b924821affc10912a5044e9~mv2.jpg/banner.jpg#originWidth=1450&originHeight=275",
+            "_id": "75c20d1b-0a75-49a0-bcf9-893d289d171f",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T11:20:50.051Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-23T12:48:45.932Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/39c5e8_1f03b7295bdf43c9bcd4381dcc202d38~mv2.png/Shanghai%20University%20Logo%20web.png#originWidth=1716&originHeight=1486",
+            "externalProfile": "https://schim.shu.edu.cn/info/1479/4274.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Being a municipal university included in national “Project 211”, SHU is jointly constructed by the Ministry of Education, Shanghai Municipal People’s Government, and the State Administration of Science, Technology and Industry for National Defense. SHU is among the first batch of pilot projects of high-level university construction in Shanghai, and is one of the universities that focus on building their preponderant disciplines into first-rate ones on the list of the Ministry of Education. \nThe School of Cultural Heritage and Information Management of Shanghai University was formally established on December 6, 2021, based on the Department of Library, Information and Archives of Shanghai University, the Major of Archaeology of the College of Arts, and the Basic Science Research Institute of Cultural Heritage Protection. At present, the college has 5 national talents, 10 provincial and ministerial talents, and 5 of them are the chief scientists of 973, the chief experts of the national key research and development program, and the chief experts of the national Social science Fund major projects. One serves as the vice chairman of the International Council of Museums (ICOM) and the vice chairman of the China Association of Museums; two serve as the vice chairman of the Teaching Guidance Committee for Institutions of Higher Education of the Ministry of Education; and one serves as the vice chairman of the China Association of Cultural Relics Protection Technology. One of the first batch of \"National Archival Leading Talents\" and three of the first batch of \"National Archival experts\", more than 95% of the teachers have doctoral degrees and more than 80% have overseas study and visit experience. The School of Cultural Heritage and Information Management has a strong scientific research strength. In the past 10 years, it has won more than 60 projects funded by the National Social Science Fund, among which the Library, Information and Archives management discipline ranked first in the country in the number of projects approved by the same discipline in 2012, 2014, 2015, 2019 and 2021, which is known as the \"Great Phenomenon of Shanghai\" in academic circles.\nCollege archives career development research center, Shanghai university, Shanghai university center for intelligence research field, such as the platform, with Shanghai to build digital library cooperation humanities research and development center, the world, Shanghai BBS, archaeological international museum of science research and education centre, the silk road of cultural relics protection science and technology innovation alliance, such as research center of China's overseas cultural relics of high platform.\nWith the mission of spreading Chinese culture and promoting digital transformation, the College is guided by national strategies and social needs, and aims to cultivate outstanding innovative talents in cultural resource management who are both majoring in arts and sciences and integrating the past and present. It is rooted in tradition and future-oriented, and hopes to build itself into a world-class school of cultural resource research and management.",
+            "iSchoolsContact": "Lihua Wang",
+            "iSchoolsWebsite": "https://schim.shu.edu.cn/",
+            "joinDate": 2019.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_91602a4d5a7f469d958131e602c1cf55~mv2.jpg/Photo%20of%20SHU.JPEG.jpg#originWidth=5760&originHeight=3840",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://schim.shu.edu.cn/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/shanghai-university",
+            "nameOfISchools": "School of Cultural Heritage and Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:vasan.rat@stou.ac.th",
+            "iSchoolsAddress": {
+                "city": "Bang Phut Sub-district",
+                "location": {
+                    "latitude": 13.9108373,
+                    "longitude": 100.5385746
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Bang Phut Sub-district, Pak Kret District, Nonthaburi 11120, Thailand",
+                "country": "TH",
+                "postalCode": "11120"
+            },
+            "nameOfUniversity": "Sukhothai Thammathirat Open University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_d2d84362f9a04ce0a2d1149b5f4bd8f0~mv2.jpg/head%20of%20school-%20Assistant%20Professor%20Vasan%20Rattanapoka.jpg#originWidth=230&originHeight=300",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_18a7ee778138475da6f11c1f7dcffb72~mv2.jpg/banner.jpg#originWidth=680&originHeight=161",
+            "_id": "b62983ec-cab2-4c8d-b2c8-d4384ca36f3f",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T12:42:40.287Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "Thailand",
+            "iSchoolsLogo": "wix:image://v1/9962f6_7d3b0ad9bfed4a19a972a46e4a036792~mv2.png/Sukhothai_Thammathirat_Open_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://elearning.stou.ac.th/user/profile.php?id=7309&lang=en",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Liberal Arts was established on 7 February 1979 to provide general foundation courses in language, sociology humanities, Thai studies, and mathematics to students in all schools of the university. The school has offered bachelor’s degree programs in Thai studies and information science since 1988 and 1993 respectively, while a graduate program in information studies was launched in 2002. In 2005, a certificate program in Chinese language was introduced to meet the country’s demand for international communication. \nSukhothai Studies Center This special project of the School of Liberal Arts supports study and research on the old Thai kingdom of Sukhothai. The educational philosophy of Sukhothai Thammathirat Open University is to expand higher educational opportunities for people at all levels. This philosophy corresponds with the distinct thoughts on liberty, opportunity and equality that characterized the prosperity of Thai civilization in the Sukhothai period. Therefore, on the 700th anniversary of the invention of the Thai alphabet by King Ramkhamhaeng the Great of Sukhothai, STOU established the Sukhothai Studies Center to support study the economics, society, politics, and other aspects of the Sukhothai kingdom. The center’s work also includes the promotion and maintenance of arts and culture from the Sukhothai period\n",
+            "iSchoolsContact": "Vasan Rattanapoka",
+            "iSchoolsWebsite": "https://www.stou.ac.th/main/en/",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_63feecef55d042f7968efcebf2f60185~mv2.jpg/image.jpg#originWidth=576&originHeight=768",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.stou.ac.th/main/en/",
+            "membershipLevel": "Associate",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/sukhothai-thammathirat-open-university",
+            "nameOfISchools": "School of Liberal Arts"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:zhyang2@mail.sysu.edu.cn   ",
+            "iSchoolsAddress": {
+                "city": "Guang Zhou Shi",
+                "location": {
+                    "latitude": 23.066797,
+                    "longitude": 113.391877
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "大学城逸仙大道",
+                    "apt": ""
+                },
+                "formatted": "China, Guang Dong Sheng, Guang Zhou Shi, Pan Yu Qu, 大学城逸仙大道398R+PQ6 邮政编码: 510330",
+                "country": "CN",
+                "postalCode": "510330"
+            },
+            "nameOfUniversity": "Sun Yat-Sen University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_28300148a1ab4889b86bb747f6cee042~mv2.jpg/Head%20of%20school-Professor%20Yang%20Zhang.jpg#originWidth=120&originHeight=120",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_4b14e20e0c794e8abe7469a56cf07b3d~mv2.png/banner.png#originWidth=1866&originHeight=356",
+            "_id": "84edd7c0-985b-4900-a60d-47867d60c929",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T11:31:05.796Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_7efe05fcd5354f699c41d3bf11d339fb~mv2.png/Sun_Yat-Sen_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://ischool.sysu.edu.cn/cn/content/%E5%BC%A0%E6%B4%8B",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Consistent with the mission of the College of Management at National Sun Yat-sen University, the Department of Information Management has committed to prevalence of education and research in Information Systems (IS).\n\nAccording to an article of the Communications of the AIS in 2006, after surveying 1,486 papers published in the top seven IS journals from 2001 to 2005, the research productivity of our department was ranked top fifty worldwide, the same as Boston University and a couple of other top universities. In addition, the remarkable amount of grants received also represents the effort that our faculty members devote to research.\n\nMost faculty members in our department hold Ph.D. degrees from prestigious universities world-wide and are highly dedicated to higher education. They have solid training in their respective fields and conduct research continuously to advance their knowledge, research and teaching levels. The research performance of our faculty members are usually ranked as top three nationally. For example, the previous Dean, Dr. Ting-Peng Liang, was awarded the Ministry of Education (MOE) Academic Award and the National Science Council (NSC) Outstanding Research Award. These awards are the most prestigious honors in Taiwan. The current Dean of the College, Dr. Jen-Her Wu, who is a senior faculty member in our department, has served as an associate editor of Computers in Human Behavior (SSCI) since 2005. Another faculty member, Dr. Nian-Shing Chen, is now a Co-Editor of Educational Technology & Society journal (SSCI) and has been granted as Distinguished Professor.\n\nOur College is one of the most internationalized colleges in Taiwan, which offered the first master’s program lectured in English, and was the first to obtain AACSB accreditation in 2005, and reaccreditation in 2010, and was the first national college in Taiwan to be reaccredited for the third times by AACSB in 2020. Our reputation and globalization has been well recognized, and we will maintain such high quality and strive toward a higher level. The current department Chief, Dr. Fen-Hui Lin, is committed to continue this international orientation, and to endeavor to enhance students’ English proficiency and communication skills.\n",
+            "iSchoolsContact": "Yang Zhang",
+            "iSchoolsWebsite": "https://web.mis.nsysu.edu.tw/",
+            "joinDate": 2014.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_902a3f1c2e274d3eab01c0aa5e25c609~mv2.jpg/image.jpg#originWidth=288&originHeight=297",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://web.mis.nsysu.edu.tw/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/sun-yat-sen-university",
+            "nameOfISchools": "\nSchool of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:wonsik.shim@gmail.com",
+            "iSchoolsAddress": {
+                "city": "Suwon-si",
+                "location": {
+                    "latitude": 37.299335,
+                    "longitude": 126.972032
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Yulcheon-dong, Suwon-si, South Korea",
+                "country": "KR",
+                "postalCode": "440-320"
+            },
+            "nameOfUniversity": "Sungkyunkwan University ",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_8e8410ee543f475fad46c2a3e9568d37~mv2.jpg/Shim%20Wonsik.jpg#originWidth=137&originHeight=167",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_e90c06b86f4f49b9be63573e154aa3d5~mv2.jpg/uni_banner_sung.jpg#originWidth=3475&originHeight=1206",
+            "_id": "2d823507-62da-4b8b-89a2-4e07073dc3bf",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T11:51:56.076Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "South Korea",
+            "iSchoolsLogo": "wix:image://v1/9962f6_a3e8d22756e945239f6e7ec38c326d50~mv2.png/Sungkyunkwan_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://lis.skku.edu/eng_lis/faculty.do?mode=view&perId=LZStrJYJgRgJgnAZjBSA7ADAWQC4HsDqANAHACICm6MwAigLxVA%20&",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The Department of Literature and Information was established in March 1964 as a library department with 20 admissions quota. After that, in 1971, a master's course in graduate school was newly established, and in March 1974, a doctoral course in this study was established for the first time in Korea. In March 1991, the department was renamed Literature Information Department in response to internal and external changes in the information society. As of 2014, the number of graduates has reached about 1,800 over the past 50 years. These alumni play a leading role in various fields such as Korean book relations, media and publishing, general companies, public institutions, and IT fields. The Department of Literature and Information aims to maintain social effectiveness by continuously operating subjects in the traditional subject areas of library and bibliography, while providing more professional undergraduate education in the field of information by reflecting the current trend of the \"digital era\" and \"big data era.\" As part of this, the Department of Literature and Information obtained membership for the first time in Korea as an international iSchool consortium with very difficult membership conditions such as education and research capabilities in February 2014. Above all, it is currently selecting a specialized project in the Seoul metropolitan area and is establishing a new data science curriculum that trains data scientists in the big data era, and is set to be officially launched in the first semester of 2015.\n\nThe research area of literature information technology is very wide ranging from information system and IT fields, information management and search, information classification and organization, and ancient literature management to information center management. The research field is largely divided into three areas: social science aspects related to overcoming information problems, humanities aspects for analyzing the organization, content, and types of information of knowledge, and engineering aspects of digital libraries and databases. Therefore, literature information can be said to be a science with convergence-complex characteristics between interdisciplinary systems. The educational goal of this course is to understand the general theories and methodologies of these various areas and to have basic qualities as information and data experts to respond to user needs and organizational and social information needs through the application of IT. Due to the nature of literature information, practical understanding of practice is required, and industry-academic cooperation classes are actively conducted as well as lectures by external experts at the master's and doctorate levels. In addition, foreign teachers are recruited in line with global issues, and as of 2014, the high level of international language (English) lectures is maintained at 44%.\n\nAfter graduating from the Department of Literature and Information, conditions for librarians such as the National Library of Korea, the National Assembly Library, the library of each company, and the school library are basically available, but the scope of entry is diverse.\n",
+            "fieldOfStudy": "Reference information service",
+            "iSchoolsContact": "Wonsik Shim",
+            "iSchoolsWebsite": "https://lis.skku.edu/eng_lis/index.do",
+            "joinDate": 2014.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_38816351c08a4a979218d1ff4599c19e~mv2.jpg/uni_sung.jpg#originWidth=2048&originHeight=1365",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://lis.skku.edu/eng_lis/index.do",
+            "membershipLevel": "Supporting",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/sungkyunkwan-university-",
+            "nameOfISchools": "Library and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:jxbijxbi@163.com",
+            "iSchoolsAddress": {
+                "city": "Su Zhou Shi",
+                "location": {
+                    "latitude": 31.303257,
+                    "longitude": 120.651928
+                },
+                "streetAddress": {
+                    "number": "50",
+                    "name": "Dong Huan Lu",
+                    "apt": ""
+                },
+                "formatted": "50 Dong Huan Lu, Gu Su Qu, Su Zhou Shi, Jiang Su Sheng, China, 215006",
+                "country": "CN",
+                "postalCode": "215006"
+            },
+            "nameOfUniversity": "Suzhou University",
+            "representativeContactImage": "wix:image://v1/f6f74b_75dbfc2729e14498924c0b893671af6f~mv2.jpg/contact2%EF%BC%88Cai%20Mengling%EF%BC%89.jpg#originWidth=400&originHeight=533",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_27badf8ae73f4aceb3015a373001c161~mv2.jpg/Head%20of%20department,main%20contact(Bi%20Jianxin).JPG#originWidth=300&originHeight=435",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_f6cf6f8c4964494e8976fd79eb7cad5d~mv2.jpg/banner.jpg#originWidth=1200&originHeight=400",
+            "_id": "39daa5a3-e4dc-4e81-abae-4e9ad1243bb6",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T12:37:42.319Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_b1168e1237b34451b7b4ab51f383d559~mv2.png/Suzhou_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "http://web.suda.edu.cn/jxbi/",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Department of archives and e-government was founded in the early 1980s. In 1983, it began to enroll undergraduates in archival science。In 1994， it began to enroll master students in archival science. In 2007， it began to enroll master students in Information Science.At present, there are 22 full-time teachers in the department. Among them, 15 had doctorate degrees, accounting for 68.2%; There were 7 professors, accounting for 31.8%; 10 associate professors, accounting for 45.5%。The Department has two characteristic research directions, one is Archive Informatization, and the other is Preservation and restoration of paper-based documents。\n\n\n",
+            "representativePosition": "Representative",
+            "representativeName": "Cai Mengling",
+            "fieldOfStudy": "Scientific research archives management",
+            "iSchoolsContact": "Bi Jianxin",
+            "iSchoolsWebsite": "http://eng.suda.edu.cn/",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_8392746cdc2e44fbb9904c1f29f37de3~mv2.png/image%20of%20%20suzhou%20university.png#originWidth=700&originHeight=448",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:czhzcml@163.com",
+            "iSchoolsWebsite1": "http://eng.suda.edu.cn/",
+            "membershipLevel": "Associate",
+            "representativeFieldOfStudy": "Preservation and restoration of paper-based documents",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/suzhou-university",
+            "nameOfISchools": "Department of Archives and E-Government"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:j.delatorre@hku.hk",
+            "iSchoolsAddress": {
+                "formatted": "Pok Fu Lam, Hong Kong",
+                "country": "HK",
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "location": {
+                    "latitude": 22.28308909999999,
+                    "longitude": 114.1365621
+                }
+            },
+            "nameOfUniversity": "The University of Hong Kong",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_ba8d182f5ed249a38a84858bea1c76d0~mv2.jpg/head%20of%20school-Professor%20DE%20LA%20TORRE,%20Jimmy.jpg#originWidth=1200&originHeight=1200",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_030a2eabae4f46ea81c8db05ca25e851~mv2.jpg/banner.jpg#originWidth=466&originHeight=118",
+            "_id": "a7e67552-116b-459e-bfa0-9012c95ab420",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T09:56:08.405Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-12-05T17:26:02.147Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_db7793eae2f14bd181da23d1f67c3468~mv2.png/The_University_of_Hong_Kong_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://web.edu.hku.hk/faculty-academics/j.delatorre",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "Our 50 academics, clinical educators and teacher educators in the Academic Unit of Human Communication, Development, and Information Sciences (CDIS) are committed to the education of teachers, speech pathologists, audiologists and information scientists. We teach in the BSc(SHS), BSc(IM), BSc(ACD), PGDE, MEd, MSc(ITE), MSc(LIM), and MSc(Audiology) and supervise MPhil, PhD and EdD research postgraduate students.\n\nWe are leaders in research in:\nHuman Communication: speech and language development and disorders; hearing sciences and disorders; speech science; voice and swallowing disorders\nHuman Development: child development; cognition; brain development; special education and disabilities; educational psychology; counselling; the science of learning\nInformation Sciences: data science; information management; measurement\n\nWe are committed to conducting innovative research that is of significance locally and internationally. We conduct basic and translational research that directly impacts schools, speech therapy and audiology clinics with a focus on improving the quality of life for the people of Hong Kong. We provide training and workshops for children, parents, teachers, and clinicians in Hong Kong and elsewhere.\n\nOur research is funded through local and international grants and is conducted in six research laboratories: Knowledge Management & E-Learning; Clinical Hearing Sciences; Speech, Language & Reading; Speech Science; Swallowing Research; and Voice Research. We participate in the Centre for Advancement of Chinese Language Education and Research (CACLER); Centre for Information Technology in Education (CITE); and Consortium for Research on Language Policy and Practice (CRLPP).\n\nOur scholars are recognised by awards and honours including the RGC Humanities and Social Sciences Prestigious Fellowship and Fulbright - RGC Hong Kong Senior Research Scholar Award. CDIS is home to the Speech, Language and Hearing Clinic, which provides the local community with quality speech therapy and audiological services that meet the unique communication needs of clients and their families. The clinic is at the Kennedy Town Centre building.\n",
+            "fieldOfStudy": "Assessment, Testing and Measurement",
+            "iSchoolsContact": "Jimmy De La Torre",
+            "iSchoolsWebsite": "http:// https://web.edu.hku.hk/unit/human-communication-development-and-information-sciences",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_51ff284636054a76a5f0c1e03f885bb1~mv2.jpg/image.jpg#originWidth=430&originHeight=303",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http:// https://web.edu.hku.hk/unit/human-communication-development-and-information-sciences",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/the-university-of-hong-kong",
+            "nameOfISchools": "Human Communication, Development, and Information Sciences (CDIS)"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:rahmi.ami@ui.ac.id",
+            "iSchoolsAddress": {
+                "city": "Depok City",
+                "location": {
+                    "latitude": -6.3606229,
+                    "longitude": 106.8272343
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Pondok Cina, Beji, Depok City, West Java 16424, Indonesia",
+                "country": "ID",
+                "postalCode": "16424"
+            },
+            "nameOfUniversity": "Universitas Indonesia",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_22cc453425c84464b03c48c1f8db578c~mv2.jpeg/head%20of%20school-%20Assistant%20Professor%20Rahmi%20S.%20Hum.jpeg#originWidth=1000&originHeight=970",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_b7e9e837ebc048a6a2990b689444e969~mv2.jpg/Uni_banner_indo.jpg#originWidth=1274&originHeight=542",
+            "_id": "fc5f53c4-efef-4cdb-8194-2b3538548195",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T12:29:10.473Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:21.687Z"
+            },
+            "country": "Indonesia",
+            "iSchoolsLogo": "wix:image://v1/9962f6_8dfa8a7ac60542c6be98e396ecd83d1e~mv2.png/Universitas_Indonesia_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://scholar.ui.ac.id/en/persons/rahmi",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "The Department of Library and Information Science, Faculty of Humanities, Universitas Indonesia (hereinafter referred to as the DIPI FIB UI) is one of the oldest higher education institutions to provide educational programs in the field of library, information, and archives science in Indonesia. Since 1952, the DIPI FIB UI has initiated many innovative and novel study programs produced by its esteemed professors and lecturers. As a library and information science pioneer, DIPI FIB UI introduces new ideas to the field each year through academic events such as international conferences and seminars. In addition, DIPI FIB UI has hosted numerous programs, discussions, and colloquiums over the years. ",
+            "fieldOfStudy": "Information-seeking Behaviour",
+            "iSchoolsContact": "Rahmi S. Hum",
+            "iSchoolsWebsite": "https://www.ui.ac.id/",
+            "joinDate": 2022.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_d10b6fff37de4518bb4842f0c74899e8~mv2.jpg/uni_uisd.jpg#originWidth=1080&originHeight=718",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.ui.ac.id/",
+            "membershipLevel": "Associate",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/universitas-indonesia",
+            "nameOfISchools": "Department of Library and Information Science, Faculty of Humanities"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:mnoorman@uitm.edu.my",
+            "iSchoolsAddress": {
+                "city": "Shah Alam",
+                "location": {
+                    "latitude": 3.13366,
+                    "longitude": 101.493738
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Jalan Pulau Indah Au10/A, Puncak Perdana, 40150 Shah Alam, Selangor, Malaysia",
+                "country": "MY",
+                "postalCode": "40150"
+            },
+            "nameOfUniversity": "Universiti Teknologi MARA",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_234b49514f994ef88bd735b381c49174~mv2.jpg/Mohamad_UITM.jpg#originWidth=739&originHeight=1125",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_b53ede7455b94a498c635ff5e14648c0~mv2.jpg/Uni_UITM.jpg#originWidth=960&originHeight=576",
+            "_id": "367ad015-1281-4e21-9af5-68a148f5ea03",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-13T11:52:20.902Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "Malaysia",
+            "iSchoolsLogo": "wix:image://v1/9962f6_ffe32b5030ea4c0bb5c312ea70f0cc3c~mv2.png/Universiti_Teknologi_MARA_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://expert.uitm.edu.my/profile.php?id=jFsoC9BVSxH2QEMjkxHYhwMzC/8tcaUJm65o0JXM3pM=",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Faculty of Information Management, UiTM, takes pride in being the pioneer in providing professional education to fulfil the manpower need of the country in three very important fields, namely: Information Management, Library Management, and Records Management. Our academic programmes, supplemented by industry attachments, equip graduates with knowledge and skills to take on the challenging demands of managing information in various forms and in various types of organisations. Our graduates become the main driving force for the development of a knowledge-based society, transforming Malaysia into a developed nation, ensuring that the country’s rich reservoirs of knowledge are systematically organised, maintained and enhanced for optimum value. To achieve this aim, the programmes consist of the blended components from four main areas: Information Technologies, Professional and Technical Aspects of Information and Records Management, Public Relations, and Users’ Needs and Services.",
+            "iSchoolsContact": "Mohamad Noorman Masrek",
+            "iSchoolsWebsite": "https://fim.uitm.edu.my/",
+            "joinDate": 2018.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_3ad1ee90c38d463b87ad0b6a6cb8f7f3~mv2.jpg/uitm_logo.jpg#originWidth=576&originHeight=576",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://fim.uitm.edu.my/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/universiti-teknologi-mara",
+            "nameOfISchools": "Faculty of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:george.buchanan@unimelb.edu.au",
+            "iSchoolsAddress": {
+                "city": "Parkville",
+                "location": {
+                    "latitude": -37.79834589999999,
+                    "longitude": 144.960974
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Parkville VIC 3010, Australia",
+                "country": "AU",
+                "postalCode": "3010"
+            },
+            "nameOfUniversity": "University of Melbourne",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_a46af58c7dde494eb268f250d6197751~mv2.jpg/George_UM.jfif#originWidth=180&originHeight=235",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_35db975d9b534ca4ab62f26b9e87a167~mv2.jpg/University%20of%20Melbourne1.jpg#originWidth=1500&originHeight=897",
+            "_id": "390622d4-3655-4172-a719-f83c8fa66369",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T09:44:51.641Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "Australia",
+            "iSchoolsLogo": "wix:image://v1/f6f74b_5ffe44f5ec3b49dc98e90ce9797be709~mv2.jpg/48314165_10161427312835195_6002680738527313920_n_edited.jpg#originWidth=696&originHeight=744",
+            "externalProfile": "https://findanexpert.unimelb.edu.au/profile/793596-george-buchanan",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "At CIS, we know what’s possible when the world’s greatest minds are empowered to push the boundaries of technology. For half a century we have pioneered the way information and computing systems are used and have fundamentally changed human life. This is why we were ranked number 1 in Australia and 39th in the world in the 2021 QS World University Rankings.\nToday, we’re looking to foster the next wave of great talent to have their chance at building tomorrow.\nThe significant growth of the School is due to our bold 10-year strategy to transform the future of engineering and IT at the University. It is the perfect time to join our School of Computing and Information Systems, and be empowered to be your best. As we open the gates to a new cohort of inspiring academics and researchers, we invite you to help us shape the future of our School.\nWe value curiosity, passion and a strong desire to learn. If you are seeking a place that fosters the brightest minds and biggest thinkers, then CIS is the place for you.\n\n",
+            "iSchoolsContact": "George Buchanan",
+            "iSchoolsWebsite": "http://www.msi.unimelb.edu.au/",
+            "joinDate": 2012.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_0407118d517540b7ab2cafc07ae55d3e~mv2.jpg/University%20of%20Melbourne2.jpg#originWidth=1400&originHeight=787",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://www.msi.unimelb.edu.au/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/university-of-melbourne",
+            "nameOfISchools": "Department of Computing & Information Systems"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:slis-dean@slis.tsukuba.ac.jp",
+            "iSchoolsAddress": {
+                "city": "つくば市",
+                "location": {
+                    "latitude": 36.08615169999999,
+                    "longitude": 140.1064271
+                },
+                "streetAddress": {
+                    "number": "２",
+                    "name": "１丁目",
+                    "apt": ""
+                },
+                "formatted": "Japan, 〒305-8550 茨城県つくば市春日１丁目２",
+                "country": "JP",
+                "postalCode": "305-8550"
+            },
+            "nameOfUniversity": "University of Tsukuba",
+            "representativeContactImage": "wix:image://v1/f6f74b_31c00aebb34f40b786d6d69d7aa2ecc4~mv2.jpg/Atsuyuki_tu.jpg#originWidth=160&originHeight=160",
+            "iSchoolsContactImage": "wix:image://v1/39c5e8_827effc5175a49f99c4c2bae88b7b1f0~mv2.jpg/head-of-the-school-web.jpg#originWidth=331&originHeight=323",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_7f13d80f9a9c4f8ca9238e248c573f4e~mv2.jpg/tsukuba_banner2.jpg#originWidth=2048&originHeight=1365",
+            "_id": "f040d179-64fe-46ff-b3b0-f17c9e52182c",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-13T12:01:55.188Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-02-09T09:00:01.738Z"
+            },
+            "country": "Japan",
+            "iSchoolsLogo": "wix:image://v1/9962f6_928f938a4b77468586e53f1d5b8f9eaa~mv2.png/University_of_Tsukuba_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://trios.tsukuba.ac.jp/en/researcher/0000002488",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Tsukuba iSchool is rooted from one of the oldest library schools in the world, which was founded in 1921. The school has long been leading the iSchool movement in the Asia Pacific region since the 1990s.\nNowadays, our program is among the largest iSchools in the world, bringing together faculty members with diverse specialties related to information. All the faculty, students, and staff members share a vision of diversity and interdisciplinary research.\nUniversity of Tsukuba is one of Japan's oldest and first-tier research universities - it belongs to the research university eleven and the ten designated national universities. The university is known not only by its research activity, but also by its strong alumni, especially in academia, education, and sports areas. It produced both Nobel prize laureates and Olympians. The university is located in Tsukuba Science City, which is the largest science city in Japan, less than an hour by train ride from central Tokyo.",
+            "representativePosition": "Associate Dean",
+            "representativeName": "Atsuyuki Morishima",
+            "fieldOfStudy": "Behavioral Modeling",
+            "iSchoolsContact": "Atsushi Toshimori",
+            "iSchoolsWebsite": "https://www.tsukuba.ac.jp/",
+            "representativeExternalProfile": "https://fusioncomplab.org/people/atsuyuki/",
+            "joinDate": 2012.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_2ccafee467634733863b63df1698e4db~mv2.jpg/Tsukuba_uni_edited.jpg#originWidth=2048&originHeight=937",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:morishima-office@ml.cc.tsukuba.ac.jp",
+            "iSchoolsWebsite1": "https://www.tsukuba.ac.jp/",
+            "membershipLevel": "Basic",
+            "representativeFieldOfStudy": "Human-in-the-Loop Data Systems",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/university-of-tsukuba",
+            "nameOfISchools": "Graduate School of Library, Information, and Media Studies"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:rhea@slis.upd.edu.ph",
+            "iSchoolsAddress": {
+                "city": "Quezon City",
+                "location": {
+                    "latitude": 14.6526624,
+                    "longitude": 121.065041
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "University of the Philippines Diliman, Diliman, Quezon City, Metro Manila, Philippines",
+                "country": "PH"
+            },
+            "nameOfUniversity": "University of the Philippines",
+            "iSchoolsContactImage": "wix:image://v1/39c5e8_e70bbe9a64e94f659acbb667ee8a1edd~mv2.jpg/Rhea%20Rowena%20Apolinario.jpg#originWidth=798&originHeight=800",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_1f52a34bcae6431fa14938e21aed2e14~mv2.jpg/banner.jpg#originWidth=1024&originHeight=683",
+            "_id": "f7a77a70-a679-442a-8755-6b105ca64a8a",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-24T12:25:53.733Z"
+            },
+            "_updatedDate": {
+                "$date": "2023-02-15T12:08:50.793Z"
+            },
+            "country": "Philippines ",
+            "iSchoolsLogo": "wix:image://v1/9962f6_430dd476c2894704be52f2ad0cf70f2c~mv2.png/University_of_the_Philippines_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://upslis.info/facultyprofile/rhea-rowena-apolinario",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The UP School of Library and Information Studies is the pioneer library school in the Philippines with programs for the graduate and undergraduate levels. In 1914, under the College of Liberal Arts, the first courses in library economy were offered but on July 1, 1961, the UP Institute of Library Science became a separate degree granting unit. Since its establishment, it has consistently contributed to the development of librarianship and information science education and profession. It continues to produce top ranking graduates who are sought after in the field of LIS, archives and records management, information systems management, knowledge management, and the like. \n\nThe UPSLIS is the Center of Excellence in Library and Information Science as recognized by the Commission on Higher Education because of its faculty and student profile, research productivity, and contribution to the field. Alongside this recognition is its membership in 2016 to the iSchools Consortium whose objective is to advance the information field and bridge information, people and technology. ",
+            "fieldOfStudy": "Archives and Records managment",
+            "iSchoolsContact": "Rhea Rowena Ubana-Apolinario",
+            "iSchoolsWebsite": "https://upslis.info/",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_a3a279877d1043edb23cc45633ad30ba~mv2.jpg/image.jpg#originWidth=396&originHeight=270",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://upslis.info/",
+            "membershipLevel": "Associate",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/university-of-the-philippines",
+            "nameOfISchools": "School of Library and Information Studies"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:jennifer.campbell-meier@vuw.ac.nz",
+            "iSchoolsAddress": {
+                "city": "Wellington",
+                "location": {
+                    "latitude": -41.2901075,
+                    "longitude": 174.7678789
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Kelburn, Wellington 6012, New Zealand",
+                "country": "NZ",
+                "postalCode": "6012"
+            },
+            "nameOfUniversity": "Victoria University of Wellington",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_6d7730d969804793993e490bdd683d06~mv2.jpg/jennifer-campbell-meier_vuw.jpg#originWidth=500&originHeight=500",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_95b68dafa66340308a2d0b6f52ce1361~mv2.jpg/36821_GCK2408-edit.jpg#originWidth=3602&originHeight=2401",
+            "_id": "100023ee-ef21-4cc9-aae7-a3d51c5f291b",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T09:45:58.405Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "New Zealand",
+            "iSchoolsLogo": "wix:image://v1/9962f6_d7af439005b84a06b3fd69801a3c2797~mv2.png/Victoria_University_of_Wellington_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://people.wgtn.ac.nz/jennifer.campbell-meier",
+            "iSchoolsPosition": "Representative",
+            "iSchoolDescription": "As a capital city business school, Wellington School of Business and Government is embedded in the heart of New Zealand’s centre of digital innovation, entrepreneurship, policymaking, and creativity. From this location, we create an educational environment that allows students to consider economic issues from commercial, government, and social impact perspectives.\n\nWe take pride in developing leaders who understand that organisational success requires a holistic view, including financial, environmental, and social sustainability. We capitalise on our location and expertise to create meaningful connections with the corporations, not-for-profit organisations, and government agencies around us.\n\nOur unique position has allowed us to develop the capabilities needed to conduct innovative, world-leading research that finds solutions to intractable problems, supports the development of new businesses, guides innovations in government, and builds capability in civil society. Our students reap the benefits of these close engagements through real-world projects, internships, special guest lectures from industry professionals, and rich professional networking opportunities.\n\nWe are also leaders in the way we teach. At Wellington School of Business and Government we combine rigorous academic training with application-based learning, a combination that allows students to develop both sound conceptual skills and strong professional behaviours that are critical to their performance in the workplace.\n\nAt Wellington School of Business and Government we are proud to have a range of innovative partnerships with the entrepreneurship community in Wellington through business incubators such as Creative HQ, as well as with a number of technology companies. In 2019, we opened The Atom Innovation Space. The Atom provides a base for students to start their entrepreneurial journeys and to get advice and support from entrepreneurs who have done it all before.\n\nOur strong relationship with New Zealand central government is exemplified by the spectrum of government departments and agencies engaging with our Professorial Chairs. We also have a range of partnerships with universities, government agencies, and corporations across the Asia–Pacific region, creating a diverse and exciting study body.\n\nAll of these factors have created a group of graduates who are second to none and succeed at the highest level in all walks of life—in New Zealand and internationally.",
+            "fieldOfStudy": "Library and Information studies",
+            "iSchoolsContact": "Jennifer Campbell-Meier",
+            "iSchoolsWebsite": "https://www.wgtn.ac.nz/sim",
+            "joinDate": 2021.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_2632557f437943fd8f9195d68358be74~mv2.jpg/36821_GCK2401.jpg#originWidth=2401&originHeight=3602",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://www.wgtn.ac.nz/sim",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/victoria-university-of-wellington",
+            "nameOfISchools": "Wellington School of Business and Government"
+        },
+        {
+            "iSchoolsContactEmail": "mailto: hinze@waikato.ac.nz",
+            "iSchoolsAddress": {
+                "subdivisions": [
+                    {
+                        "code": "Waikato",
+                        "name": "Waikato",
+                        "type": "ADMINISTRATIVE_AREA_LEVEL_1"
+                    },
+                    {
+                        "code": "Hamilton",
+                        "name": "Hamilton",
+                        "type": "ADMINISTRATIVE_AREA_LEVEL_3"
+                    },
+                    {
+                        "code": "NZ",
+                        "name": "New Zealand",
+                        "type": "COUNTRY"
+                    }
+                ],
+                "city": "Hamilton",
+                "location": {
+                    "latitude": -37.7868611,
+                    "longitude": 175.3184579
+                },
+                "countryFullname": "New Zealand",
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "University of Waikato, Hillcrest, Hamilton, New Zealand",
+                "country": "NZ",
+                "postalCode": "3216"
+            },
+            "nameOfUniversity": "Waikato University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_00f1034388bf4c2b9be7380d2b4bd740~mv2.jpg/Hinze,-Annika-waikato.jpg#originWidth=150&originHeight=225",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_c51b3c457a944446851f3bba66fe4050~mv2.jpg/Banner_waikato_edited.jpg#originWidth=1500&originHeight=867",
+            "_id": "6a14c703-ddc0-4946-982d-06958d873dcd",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-04-27T10:50:08.084Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "New Zealand",
+            "iSchoolsLogo": "wix:image://v1/9962f6_29fbea87baf04d17936769a7cb90abe0~mv2.png/Waikato_University_logo.png#originWidth=300&originHeight=300",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Computing and Mathematical Sciences was formed in 1987, renamed the Faculty of Computing and Mathematical Sciences at the beginning of 2010, and has now returned to being called the School of Computing and Mathematical Sciences. As in 1987, the School has two departments - the Department of Computer Science and the Department of Mathematics and Statistics.\n\nWith the formation of the School, a new four year honours degree, the Bachelor of Computing and Mathematical Sciences, was offered. The School also offered the Bachelor of Science, a three year degree.\n\nIn 2002, the School started offering two additional degrees: the Bachelor of Engineering with Honours (BE(Hons)) and the Bachelor of Computer Graphic Design (BCGD). In the BE (Hons) degree, students can enrol in the Software Engineering programme. Other engineering programmes are offered by the School of Engineering. In 2018, the Bachelor of Design was introduced, replacing the BCGD. This degree has the four majors of Communication Design, Industrial Design, Interface Design and Media Design.\n\nIn 2014 we celebrated the 25th anniversary of the internet in New Zealand - an achievement made possible in 1989 with the help of the School.\n\nWe also launched New Zealand's first MOOC (Massive Open Online Course) in 2013 and have introduced the country's first Cyber Security Lab and Master of Cyber Security.  In 2016, the School was accepted as a member of iSchools, making it the first iSchool in New Zealand.",
+            "iSchoolsContact": "Annika Hinze",
+            "iSchoolsWebsite": "http://www.cms.waikato.ac.nz/",
+            "joinDate": 2016.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_173cdf8c67964985a4aa7a3826d62910~mv2.jpg/waikato_uni_edited.jpg#originWidth=957&originHeight=669",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://www.cms.waikato.ac.nz/",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/waikato-university",
+            "nameOfISchools": "School of Computing and Mathematical Sciences"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:weilu@whu.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Wuhan",
+                "location": {
+                    "latitude": 30.5360485,
+                    "longitude": 114.3643219
+                },
+                "streetAddress": {
+                    "number": "",
+                    "name": "",
+                    "apt": ""
+                },
+                "formatted": "Wuchang District, Wuhan, Hubei, China, 430072",
+                "country": "CN",
+                "postalCode": "430072"
+            },
+            "nameOfUniversity": "Wuhan University",
+            "representativeContactImage": "wix:image://v1/39c5e8_e1b37c701e27432fa990c2c4c899ad98~mv2.jpeg/Lihong%20Zhou%20original%20(2).jpeg#originWidth=3799&originHeight=3357",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_ead4d855406c4611a2a3d499f957cc5a~mv2.jpg/head%20of%20school-Professor%20Wei%20Lu.jpg#originWidth=574&originHeight=800",
+            "iSchoolsBanner": "wix:image://v1/39c5e8_6a05e7c01b764f60871bf2081e3b0778~mv2.jpeg/9e14f7850cc744aa985096fa959c4251.jpeg#originWidth=1280&originHeight=720",
+            "hostedIConference": "wix:image://v1/39c5e8_3760a970ccdd4d1694e58ab61b557bf0~mv2.jpg/2017_Final_Banner_reduced.jpg#originWidth=828&originHeight=171",
+            "_id": "5a10ca63-c6d5-4ce1-8a6d-69d428fcfc15",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T12:59:38.002Z"
+            },
+            "representative2Name": "",
+            "_updatedDate": {
+                "$date": "2023-08-31T12:29:03.607Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_bf42ecb3260342d2a659ca61c6c93751~mv2.png/Wuhan_University_Logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "http://sim.whu.edu.cn/info/1204/6175.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The School of Information Management (SIM) in Wuhan University is the earliest, largest and strongest teaching and research institution in the field of library and information management in China. SIM is committed to develop interdisciplinary talents and professional leaders in information management. As a key school supported by the National \"985 Project\" and \"211 Project\", SIM has been consistently ranked the first in the field.\n\nThe predecessor of SIM was the Books Division of Boone University at Wuchang, which was established in 1920 and became an independent specialty school, namely, the Boone Library School at Wuchang in 1929. In 1953, the school merged into Wuhan University and became the Department of Library Science of Wuhan University. In 1984, it was approved by the original Ministry of Education of China (MOE) to be renamed as the School of Library and Information Science of Wuhan University. In 2001, its name changed to the School of Information Management of Wuhan University.\n\nIn the development for more than 90 years, SIM believes that \"Pioneering Creation, Pragmatic Entrepreneurship, and Leading Innovation\" should be the notion for teaching. Several research areas in SIM are in the leading positions in China. Especially, “The library, Information, and Archives Management”, as a primary subject, has been identified as the key primary subject in Curriculum Assessments organized by the Ministry of Education (MOE).\n\nSIM consists of five departments, namely, Department of Library Science, Department of Information Management Science, Department of Archives and Government Information, Department of Publishing Science, and Department of Electronic Commerce. Additionally, SIM has six bachelor degree programs (Library Science, Information Management and Information Systems, Archival Science, Editing and Publishing Science, Electronic Commerce, and Digital publishing); eight doctoral and master‘s degree-awarding subjects (Library Science, Information Science, Archival Science, Information Resources Management, Ancient Books Collection and Protection, Publishing and Distribution Science, Management Science and Engineering, E-Commerce), two doctoral degree programs as primary subjects (Library, Information and Archives Management; and Management Science and Engineering), two postdoctoral research stations, and four professional master’s degree granting subjects (Library & Information, Publishing, Engineering, Engineering Management). Now, SIM has an enrollment of more than 1000 undergraduate students, 257 Academic Masters Program students, 1000 Professional Masters Program students, 180 Doctoral candidates, and 3000 students in distance education, continuing education and other types of professional training programs.\n\nSIM has an outstanding faculty team, including 34 professors, 32 associate professors and senior-position researchers, among whom there are 44 kinds of high-level talent. The teaching group of core curriculum of library and information science is identified as the state level teaching group by MOE. 7 courses in SIM have been ranked as National Quality Courses by the MOE, one major as National Special Major, and two as Hubei’s Brand Subject.\n\nSIM is the only one in China qualified to build the MOE key social science research base--the Center for the Studies of Information Resources of Wuhan University. Besides, SIM has the “985 Project” philosophy and social science innovative research base named Information Resource Research and Innovation Base and the “211 Project” key discipline construction project. In 2000, SIM set up the National Information Resources Research (Wuhan) Base approved by former Ministry of Information Industry. In 2006, SIM found Advanced Publishing Professional Training Center sponsored by the former General Administration of Press and Publication of China and Wuhan University. SIM also has many interdisciplinary-collaborative research institutions, such as Scientific Evaluation Research Center of Wuhan University, Library and Information Science Research Institute, and Electronic Commerce Research and Development Center of Wuhan University. SIM has first-class lab facilities and LIS branch library to ensure the teaching qualities. The LIS Experimental Teaching Center of Wuhan University has been approved as a National Demonstration Center for Experimental Teaching. The Reference Room as well as the Lab Library at SIM have the richest professional collections both in Chinese and foreign languages in China, about 160,000 books.\n\nSIM has a reputable teaching quality. Its students have won the prizes at “The Challenge Cup”, “E-commerce Contest” and “The Future Editors Cup” in China. SIM students have wide employment prospects and are in great needs from the market.\n\n",
+            "representativePosition": "Associate Dean",
+            "representativeName": "Lihong Zhou",
+            "iSchoolsContact": "Wei Lu",
+            "iSchoolsWebsite": "http://sim.whu.edu.cn/",
+            "representativeExternalProfile": "https://sim.whu.edu.cn/info/1203/6212.htm",
+            "joinDate": 2009.0,
+            "iSchoolsUniImage": "wix:image://v1/39c5e8_e4d0bb9f7cb14bccbf86585215bdd7d0~mv2.jpg/wuhan%20university%202.jpg#originWidth=1280&originHeight=853",
+            "region": "Asia Pacific",
+            "representativeEmail": "mailto:l.zhou@whu.edu.cn",
+            "iSchoolsWebsite1": "http://sim.whu.edu.cn/",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/wuhan-university",
+            "nameOfISchools": "School of Information Management"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:min.song@yonsei.ac.kr",
+            "iSchoolsAddress": {
+                "formatted": " 50 Yonsei-ro, Seodaemun-gu Seoul 120-749, KOREA"
+            },
+            "nameOfUniversity": "Yonsei University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_29768304f5d042c9be39b6248992a219~mv2.jpg/ex-head%20of%20school-Professor%20Min%20Song.jpg#originWidth=200&originHeight=200",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_ce9cafdb54e4412f9487e6cd81c4c22a~mv2.jpg/banner.jpg#originWidth=437&originHeight=297",
+            "_id": "54e53fd6-f39a-433e-88dc-bd7fdd6b82af",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-13T12:33:41.731Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:19.726Z"
+            },
+            "country": "South Korea",
+            "iSchoolsLogo": "wix:image://v1/9962f6_30209ddac66b42a78dfb6ec2bcdcd0b1~mv2.png/Yonsei_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "https://web.yonsei.ac.kr/libart/faculty/korean.html",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "The Department of Library and Information Science offers a high-quality professional education programs based on the practices and underlying theories of information acquisition, organization, transmission, and utilization.\n\nStudents learn using the latest technology and methods to reference, research, organizing information, and other professional tasks.\n\nLibrary and Information Science Department understands the importance of creating a better environment for students and teachers. They maintain a large computer lab that holds up to 35 desktop computers and a teaching station.",
+            "fieldOfStudy": "Information Science",
+            "iSchoolsContact": "Min Song",
+            "iSchoolsWebsite": "https://web.yonsei.ac.kr/libart/departments/lis.html",
+            "joinDate": 2014.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_4174ccbf492541ea8c4e822fabc73d2e~mv2.jpg/image.jpg#originWidth=458&originHeight=305",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "https://web.yonsei.ac.kr/libart/departments/lis.html",
+            "membershipLevel": "Basic",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/yonsei-university",
+            "nameOfISchools": "\nLibrary and Information Science"
+        },
+        {
+            "iSchoolsContactEmail": "mailto:yrx@zzu.edu.cn",
+            "iSchoolsAddress": {
+                "city": "Zheng Zhou Shi",
+                "location": {
+                    "latitude": 34.808071,
+                    "longitude": 113.53581
+                },
+                "streetAddress": {
+                    "number": "100号",
+                    "name": "Ke Xue Da Dao",
+                    "apt": ""
+                },
+                "formatted": "100 Ke Xue Da Dao, Zhong Yuan Qu, Zheng Zhou Shi, He Nan Sheng, China, 450001",
+                "country": "CN",
+                "postalCode": "450001"
+            },
+            "nameOfUniversity": "Zhengzhou University",
+            "iSchoolsContactImage": "wix:image://v1/f6f74b_384dbae6c44b4ff4bd4bf15eb5184c0f~mv2.jpg/representative%20of%20school-Associate%20Professor%20Ruixian%20Yang.jpg#originWidth=303&originHeight=459",
+            "iSchoolsBanner": "wix:image://v1/f6f74b_1818962d2b4043059bf64a5cf5a133fe~mv2.jpg/banner.jpg#originWidth=1099&originHeight=264",
+            "_id": "8aea789d-f4f6-4924-8e54-549c5749ff00",
+            "_owner": "39c5e8c5-3549-426b-bb79-e708695d45dc",
+            "_createdDate": {
+                "$date": "2022-05-18T12:36:36.328Z"
+            },
+            "_updatedDate": {
+                "$date": "2022-11-07T08:36:20.760Z"
+            },
+            "country": "China",
+            "iSchoolsLogo": "wix:image://v1/9962f6_92c93d9860d84c96a51ea39b1018d0b9~mv2.png/Zhengzhou_University_logo.png#originWidth=300&originHeight=300",
+            "externalProfile": "http://www5.zzu.edu.cn/xxgl/info/1113/1583.htm",
+            "iSchoolsPosition": "Head of School",
+            "iSchoolDescription": "Established in 1985, the School of Information Management now has three bachelor’s degrees including Library Science, Information Management and Archival Science; a master’s degree program: Library Information and Archives Management; a professional master’s degree program: Library Information and a doctor’s degree program: Information Management. The school currently has 4 teaching and research offices, 3 specialized laboratories, 2 multimedia classrooms, 2 computer rooms and 160 computers. There are 10 thousand odd books and 70 odd foreign and Chinese periodicals in documentation centre. The school also has a study centre of document information content.\n\nThe School of Information Management has an enrollment of 551 undergraduates and 114 master degree candidates. The school is staffed by 40 academic staffs including 8 professors, 11 associated professors which account for 66% of the full-time teachers. And it has 16 doctors which account for 53% of the full-time teachers.\n\nWith 30 years development, the School of Information Management has gained a good reputation in Henan province for its rich teaching experience, leading research results and sound discipline structure. The school now has grown up into a talent training basement and an academic research centre in China.\n",
+            "iSchoolsContact": "Ruixian Yang",
+            "iSchoolsWebsite": "http://international.zzu.edu.cn/en/school/detail?cid=3&pid=3&detail=12",
+            "joinDate": 2020.0,
+            "iSchoolsUniImage": "wix:image://v1/f6f74b_b0d57f3565b3444097db90e27f07beff~mv2.jpg/image.jpg#originWidth=1440&originHeight=400",
+            "region": "Asia Pacific",
+            "iSchoolsWebsite1": "http://international.zzu.edu.cn/en/school/detail?cid=3&pid=3&detail=12",
+            "membershipLevel": "iCaucus",
+            "link-ischools-members-nameOfUniversity": "/ischools-members/zhengzhou-university",
+            "nameOfISchools": "School of Information Management"
+        }
+    ],
+    "totalCount": 37,
+    "totalResults": 37,
+    "partialIncludes": false,
+    "pagingMetadata": {
+        "count": 37,
+        "offset": 0,
+        "total": 37,
+        "tooManyToCount": false,
+        "hasNext": false
+    }
+}
