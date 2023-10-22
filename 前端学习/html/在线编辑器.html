@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>在线代码编辑器</title>
+  <link rel="stylesheet" href="https://unpkg.com/vite/style.css">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f7f8fa;
+      transition: background-color 0.5s ease;
+    }
+    body.dark-mode {
+      background-color: #1e1e1e;
+    }
+    h2 {
+      color: #172b4d;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .iframe-container {
+      width: 80%;
+      max-width: 800px;
+      height: 500px;
+      border-radius: 5px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      transition: box-shadow 0.3s ease;
+    }
+    .iframe-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    .toggle-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      cursor: pointer;
+      background-color: #ffffff;
+      color: #172b4d;
+      border: none;
+      padding: 8px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+    }
+    .toggle-btn img {
+      width: 20px;
+      height: 20px;
+      margin-right: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h2>在线代码编辑器</h2>
+  <button class="toggle-btn" onclick="toggleMode()">
+    <img src="https://cdn.jsdelivr.net/gh/iconic/open-iconic/svg/sun.svg" id="sunIcon" alt="Sun Icon">
+    <img src="https://cdn.jsdelivr.net/gh/iconic/open-iconic/svg/moon.svg" id="moonIcon" alt="Moon Icon">
+  </button>
+  <div class="iframe-container">
+    <iframe src="https://bangtool.top/my-custom-deployment/repl/?kernel=python&toolbar=1&code=print('正在启动.....')"></iframe>
+  </div>
+
+  <script>
+    function toggleMode() {
+      const body = document.querySelector('body');
+      const sunIcon = document.getElementById('sunIcon');
+      const moonIcon = document.getElementById('moonIcon');
+      body.classList.toggle('dark-mode');
+      if (body.classList.contains('dark-mode')) {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'inline';
+      } else {
+        sunIcon.style.display = 'inline';
+        moonIcon.style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
